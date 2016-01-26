@@ -1,0 +1,27 @@
+hibernate.connection.url = jdbc:sqlserver://ncibidb3.bicc.med.umich.edu:1433;databaseName=humdb;selectMethod=cursor;schema=dbo
+hibernate.connection.username = userMimiWeb
+hibernate.connection.password = mimi4ncibi
+
+
+id 
+cmpid
+approximatemw int
+formula **********temp[2]
+kegg_id **********temp[3]LIGAND-CPD
+compoundid
+name
+cid
+smile**** String temp[4]
+common_name=*******temp[5]
+molecular_w8 = int temp[1] and temp[8]
+temp[7] =1
+
+
+cid1
+cid2
+name
+casnum
+provenceid
+mw float
+
+temp[6] = 

@@ -1,0 +1,40 @@
+hibernate.connection.url = jdbc:sqlserver://ncibidb3.bicc.med.umich.edu:1433;databaseName=humdb;selectMethod=cursor;schema=dbo
+hibernate.connection.username = userMimiWeb
+hibernate.connection.password = mimi4ncibi
+
+
+id 
+cmpid
+approximatemw int
+formula **********temp[2]
+kegg_id **********temp[3]LIGAND-CPD
+compoundid
+name
+cid
+smile**** String temp[4]
+common_name=*******temp[5]
+molecular_w8 = int temp[1] and temp[8]
+temp[7] =1
+
+
+cid1
+cid2
+name
+casnum
+provenceid
+mw float
+
+temp[6] = 
+
+Column		                            Description
+0 id		index (1-n)
+1 approximateMw		approximate molecular weight
+2 formula		molecular formula
+3 cid		KEGG id (in this version)
+4 inchi		compound description string (use InChi instead)
+5 name		common name of compound
+6 casnum		Chemical Abstracts Search 7 7 7 number
+7 provenanceid		version specifier: use 5 for drosophila
+8 mw		exact molecular weight
+9 smile
+
