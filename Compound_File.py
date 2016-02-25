@@ -80,11 +80,11 @@ for compound in soup.find_all('Compound', ID=True):
     #print ("end of the loop with count is %s", count)
 
 with open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/compound.csv', 'w') as compound_file:
-    writer = csv.writer(compound_file, lineterminator = '\n')
+    writer = csv.writer(compound_file,delimiter='\t', lineterminator = '\n')
     writer.writerows(compound_result)
 
 with open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/synonyms.csv', 'w') as compound_file:
-    writer = csv.writer(compound_file, lineterminator = '\n')
+    writer = csv.writer(compound_file,delimiter='\t', lineterminator = '\n')
     writer.writerows(syn)
 
 

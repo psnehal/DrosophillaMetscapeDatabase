@@ -1,0 +1,208 @@
+import csv
+from bs4 import BeautifulSoup
+import time
+import re
+
+start_time = time.time()
+soup = BeautifulSoup(open('/home/snehal/Drosophila_Alla/onlineData/OriginalFiles/fly_compound_full.xml'), 'xml')
+temp = [None]*9
+compound_result = []
+temp_left = []
+temp_right = []
+reaction_left = []
+reaction_right = []
+temp_syn = []
+tempSysFin=[]
+temp_left_temp=[]
+temp_right_temp=[]
+
+syn = []
+count = 1
+p = re.compile('<.*?>')
+comrightside='none'
+
+for compound in soup.find_all('Compound', ID=True):
+    #temp[0] = compound['frameid'].strip()
+
+    temp[0] =  count
+    temp_left.append(count)
+    temp_right.append(count)
+
+
+    if compound.find('molecule'):
+        molecule = compound.find('molecule')
+        if molecule.find('formula'):
+            temp[2] = molecule.find('formula')['concise'].strip()
+            #print temp[2]
+            # print "\n from the formula loop"
+    if compound.find('dblink'):
+        db = compound.find_all('dblink')
+        for item in db:
+            db_type = item.find('dblink-db')
+            db_id = item.find('dblink-oid')
+            if db_type.string.strip() == 'CAS':
+                temp[6] = db_id.string.strip()
+            elif db_type.string.strip() == 'LIGAND-CPD':
+                temp[3] = db_id.string.strip()
+
+
+    if compound.find('appears-in-left-side-of'):
+        left = compound.find('appears-in-left-side-of')
+        for item in left.find_all('Reaction'):
+            temp_left_temp.append(item['frameid'].strip())
+    if temp_left_temp:
+        compleftside="|".join(temp_left_temp)
+    else:
+        comrightside='none'
+    temp_left.append(compleftside)
+    compleftside=''
+    if compound.find('appears-in-right-side-of'):
+        right = compound.find('appears-in-right-side-of')
+        for item in right.find_all('Reaction'):
+            temp_right_temp.append(item['frameid'].strip())
+    if temp_right_temp:
+        comrightside='|'.join(temp_right_temp)
+    else:
+        comrightside='none'
+    temp_right.append(comrightside)
+    temp_left_temp=[]
+    temp_right_temp=[]
+    compleftside=''
+    if compound.find('synonym'):
+        synonym = compound.find_all('synonym')
+        for item in synonym:
+            temp_syn.append(unicode(item.string.strip()).encode("utf-8"))
+    if compound.find('inchi'):
+        inchi = compound.find('inchi').string.strip().replace("InChI=", "")
+        temp[4] = inchi
+        #print "inchi is %s" %inchi
+    if compound.find('molecular-weight'):
+        mw = float(compound.find('molecular-weight').string.strip())
+        temp[8] = mw
+        temp[1] = int(mw)
+    if compound.find('common-name'):
+        primaryName = p.sub('',compound.find('common-name').string.strip())
+        temp[5] = primaryName
+        print primaryName
+        temp_left.append(primaryName)
+        temp_right.append(primaryName)
+    temp[7] = 5
+
+    #print("temp_syn is",temp_syn)
+    synonyms='|'.join(temp_syn)
+    #print("count is",count)
+    tempSysFin.append(count)
+    #print("primaryname is",count)
+    tempSysFin.append(primaryName)
+    #print("synonyms is",synonyms)
+    tempSysFin.append(synonyms)
+
+    #print(tempSysFin)
+    syn.append(tempSysFin)
+    reaction_left.append(temp_left)
+    reaction_right.append(temp_right)
+    compound_result.append(temp)
+
+    temp = [None]*9
+    temp_syn = []
+    temp_left = []
+    temp_right = []
+    tempSysFin =[]
+    count+= 1
+
+with open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/compound.csv', 'w') as compound_file:
+    writer = csv.writer(compound_file,delimiter='\t', lineterminator = '\n')
+    writer.writerows(compound_result)
+    #print ("end of the loop with count is %s", count)
+with open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/compoundLeftTestBioID.csv', 'w') as compound_file:
+    writer = csv.writer(compound_file,delimiter='\t', lineterminator = '\n')
+    writer.writerows(reaction_left)
+with open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/compoundRightTestBioID.csv', 'w') as compound_file:
+    writer = csv.writer(compound_file,delimiter='\t',lineterminator = '\n')
+    writer.writerows(reaction_right)
+
+
+
+print("compound table from snehal script is done")
+print("--- %s seconds ---" % (time.time() - start_time))
+start_time = time.time()
+
+reactDict = {"bioId.": "id"}
+with open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/Final/Reaction.csv', 'r') as f:
+        for line in f:
+            splitLine = line.split(",")
+            #print splitLine[0]
+            #print splitLine[1]
+            #creating dictionary of compound biosyn id to the primary name inn the table
+            reactDict[(splitLine[1]).strip()] = splitLine[0]
+
+reactIds=[]
+
+rec2in = open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/Reaction2InputsTable.tab', 'w')
+rec2ab = open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/ReactionWhoseIDsAreAbsent.tab', 'w')
+f= open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/Final/compoundLeftTestBioID.csv')
+
+for line in f:
+    #print line,
+    temp=line.split("\t")
+    compid = temp[0]
+    reactIds=temp[1].split("|")
+    if reactIds:
+        if len(reactIds) > 1:
+            for index in range(len(reactIds)):
+                try:
+                    reactBid=reactIds[index]
+                    reactId=reactDict[reactBid]
+                    line= reactId+"\t"+compid+"\n"
+                    rec2in.write(line)
+                except KeyError:
+                    print "Key could not find",compid
+                    rec2ab.write(reactBid+"\n")
+
+        else:
+            try:
+                reactBid=reactIds[0]
+                reactId=reactDict[reactBid]
+                line= reactId+"\t"+compid+"\n"
+                rec2in.write(line)
+            except KeyError:
+                 print "Key could not find",compid
+                 rec2ab.write(reactBid+"\n")
+
+
+
+rec2out = open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/Reaction2OutputsTable.tab', 'w')
+rec2ab = open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/ReactionWhoseIDsAreAbsent.tab', 'w')
+f= open('/home/snehal/Drosophila_Alla/SnehalScripts/finalFiles/Final/compoundRightTestBioID.csv')
+
+for line in f:
+    #print line,
+    temp=line.split("\t")
+    compid = temp[0]
+    reactIds=temp[1].split("|")
+    if reactIds:
+        if len(reactIds) > 1:
+            for index in range(len(reactIds)):
+                try:
+                    reactBid=reactIds[index]
+                    reactId=reactDict[reactBid]
+                    line= reactId+"\t"+compid+"\n"
+                    rec2out.write(line)
+                except KeyError:
+                    print "Key could not find",compid
+                    rec2ab.write(reactBid+"\n")
+
+        else:
+            try:
+                reactBid=reactIds[0]
+                reactId=reactDict[reactBid]
+                line= reactId+"\t"+compid+"\n"
+                rec2out.write(line)
+            except KeyError:
+                 print "Key could not find",compid
+                 rec2ab.write(reactBid+"\n")
+
+
+
+
+

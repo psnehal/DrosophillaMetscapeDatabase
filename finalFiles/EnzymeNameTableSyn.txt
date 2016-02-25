@@ -1,0 +1,708 @@
+1	fruit fly <Drosophila melanogaster>	synonyms	606
+1	Drosophila melangaster	synonyms	606
+1	fruit fly	synonyms	606
+1	Mdh	synonyms	606
+1	CG5889	synonyms	606
+29	Pho	synonyms	1490
+42	tRNA nucleotidyltransferase	synonyms	1401
+42	DNA polymerase sigma	synonyms	1401
+42	tRNA nucleotidyltransferase	synonyms	1401
+42	DNA polymerase sigma	synonyms	1401
+42	tRNA nucleotidyltransferase	synonyms	1401
+42	DNA polymerase sigma	synonyms	1401
+47	Pez	synonyms	1490
+68	Dmt	synonyms	357
+106	Feo	synonyms	367
+217	Lnk	synonyms	53
+241	Tau	synonyms	823
+420	Mos	synonyms	1451
+558	Jeb	synonyms	1121
+628	Max	synonyms	1338
+710	Gag	synonyms	123
+726	chondroitin 4-sulfotransferase	synonyms	819
+726	chondroitin 6-sulfotransferase	synonyms	819
+726	chondroitin 4-sulfotransferase	synonyms	819
+726	chondroitin 6-sulfotransferase	synonyms	819
+734	Squ	synonyms	1338
+760	Krz	synonyms	1054
+780	Osa	synonyms	641
+804	CG8327	synonyms	1105
+822	Gfr	synonyms	641
+841	Tun	synonyms	1328
+850	Emu	synonyms	1451
+858	Cag	synonyms	1442
+895	Nrm	synonyms	823
+908	Pol	synonyms	1381
+926	Osp	synonyms	823
+956	Meg	synonyms	1490
+1012	Xnp	synonyms	641
+1032	Cut	synonyms	211
+1093	Hbs	synonyms	641
+1121	Pol	synonyms	1381
+1261	Jdp	synonyms	883
+1304	Dpr	synonyms	1480
+1375	Yin	synonyms	641
+1419	Sha	synonyms	1525
+1441	Tob	synonyms	1451
+1514	Tth	synonyms	1251
+1611	Pol	synonyms	1381
+1615	Ppl	synonyms	1381
+1650	Pol	synonyms	1381
+1660	Ugp	synonyms	875
+1675	Tex	synonyms	1490
+1815	NudC	synonyms	1171
+1848	Sty	synonyms	928
+1851	Pon	synonyms	1171
+2021	Pol	synonyms	1381
+2123	Pot	synonyms	1171
+2152	Usf	synonyms	1345
+2206	Coenzyme Q biosynthesis protein 2	synonyms	1109
+2220	Pol	synonyms	1381
+2396	Ebi	synonyms	1056
+2483	Tan	synonyms	527
+2541	Wbl	synonyms	1456
+2597	Ocn	synonyms	833
+2724	Raw	synonyms	1451
+2904	Dob	synonyms	799
+2920	Nab	synonyms	1121
+2942	Mnt	synonyms	168
+3091	Ubl conjugation pathway	synonyms	1480
+3091	Probable ubiquitin-conjugating enzyme E2 CG4502	synonyms	1480
+3141	Dek	synonyms	1177
+3178	Brf	synonyms	1393
+3226	Ave	synonyms	939
+3354	Orf	synonyms	724
+3413	Cbl	synonyms	1391
+3435	Wds	synonyms	1121
+3443	Hdm	synonyms	1456
+3540	Pol	synonyms	1381
+3558	Pol	synonyms	1381
+3560	Ccs	synonyms	1381
+3619	Rst	synonyms	1480
+3726	CamA	synonyms	1121
+3726	putidaredoxin reductase	synonyms	1121
+3732	Mrt	synonyms	305
+3741	Orf	synonyms	1547
+3783	Bai	synonyms	1480
+3917	Sad	synonyms	1335
+3960	Arc	synonyms	1480
+4099	Him	synonyms	211
+4115	Pim	synonyms	626
+4122	Pxd	synonyms	475
+4217	Bam	synonyms	641
+4324	Sle	synonyms	1451
+4328	Fos	synonyms	823
+4393	Hig	synonyms	1028
+4424	Sns	synonyms	162
+4527	Dlt	synonyms	870
+4584	phosphofructokinase	synonyms	753
+4584	phosphoglucokinase	synonyms	753
+4584	phosphofructokinase	synonyms	753
+4584	phosphoglucokinase	synonyms	753
+4618	Hex-A	synonyms	906
+4692	Net	synonyms	1313
+4724	N-acetylglucosamine metabolic process	synonyms	1065
+4724	acetylgalactosaminyltransferase activity	synonyms	1065
+4724	transferase activity, transferring glycosyl groups	synonyms	1065
+4901	Prc	synonyms	216
+4902	Peptide-O-fucosyltransferase 1	synonyms	947
+4902	nti	synonyms	947
+4902	O-FucT-1	synonyms	947
+4999	Omd	synonyms	1480
+5003	Blp	synonyms	1171
+5008	Ary	synonyms	1171
+5080	Pol	synonyms	1381
+5157	Qtc	synonyms	1108
+5275	Hid	synonyms	1338
+5360	Bnb	synonyms	1171
+5463	Pol	synonyms	1381
+5500	Rdh	synonyms	22
+5560	Mst	synonyms	1433
+5565	Aru	synonyms	823
+5579	Tep	synonyms	628
+5960	Djl	synonyms	1257
+6062	Pck	synonyms	1459
+6110	Ntr	synonyms	650
+6134	Fln	synonyms	767
+6208	Pgc	synonyms	1306
+6277	Cir	synonyms	1381
+6304	protein binding	synonyms	260
+6313	Fas	synonyms	1393
+6360	Tra	synonyms	641
+6579	Nes	synonyms	1440
+6685	Jog	synonyms	736
+6843	Vav	synonyms	1522
+6944	Pxb	synonyms	1454
+6984	Galactoside 3-L-fucosyltransferase	synonyms	1315
+7127	Sug	synonyms	408
+7151	Lbm	synonyms	1480
+7180	Alk	synonyms	1066
+7186	Orf	synonyms	1381
+7267	Tan	synonyms	1066
+7283	Wls	synonyms	461
+7370	Eco	synonyms	1480
+7372	Jnk	synonyms	1530
+7593	Mfr	synonyms	1451
+7638	Gga	synonyms	162
+7771	Skl	synonyms	124
+7792	Ecd	synonyms	1171
+7822	Thr	synonyms	1249
+7896	Nbs	synonyms	1451
+7899	Mannosyltransferase ALG12 homolog	synonyms	1451
+7915	Ran	synonyms	1171
+8019	Orf	synonyms	1381
+8087	JanA	synonyms	1221
+8121	Crk	synonyms	1255
+8161	Sdk	synonyms	1480
+8340	Vls	synonyms	669
+8450	Aly	synonyms	1386
+8489	Als	synonyms	1034
+8517	Run	synonyms	543
+8561	Mxr	synonyms	1480
+8591	Cbs	synonyms	1480
+8644	Ubl	synonyms	1428
+8676	Alt	synonyms	1451
+8697	Ice	synonyms	475
+8776	ALPHA 1,3 FUCOSYLTRANSFERASE-RELATED	synonyms	1315
+8808	Eca	synonyms	979
+8816	Loj	synonyms	979
+8916	Pol	synonyms	1480
+8957	Aps	synonyms	1132
+8992	Rux	synonyms	650
+9042	Nct	synonyms	1451
+9071	Sbd	synonyms	527
+9090	Noe	synonyms	277
+9110	Fog	synonyms	968
+9202	Sak	synonyms	1451
+9207	Gag	synonyms	672
+9252	Del	synonyms	1171
+9253	Bar	synonyms	1171
+9257	Vsg	synonyms	1171
+9362	Tal	synonyms	919
+9411	Osk	synonyms	452
+9452	Gag	synonyms	1371
+9517	Rim	synonyms	641
+9518	Boi	synonyms	641
+9590	Oaf	synonyms	211
+9778	Tep	synonyms	1456
+9806	Vlc	synonyms	1171
+9812	Pxt	synonyms	475
+9831	Reg	synonyms	48
+9843	Tty	synonyms	309
+10059	Cap	synonyms	1121
+10061	Pol	synonyms	1381
+10096	Gnu	synonyms	1488
+10166	Fax	synonyms	675
+10254	Unc	synonyms	833
+10343	Pmi	synonyms	641
+10376	Wda	synonyms	590
+10407	Ack	synonyms	791
+10430	CG4390	synonyms	1139
+10441	Pek	synonyms	1477
+10490	Pol	synonyms	1381
+10504	Laf	synonyms	508
+10548	Ccn	synonyms	1309
+10557	Pol	synonyms	1381
+10563	Dgo	synonyms	823
+10564	Dsd	synonyms	823
+10578	Fit	synonyms	1528
+10641	Pst	synonyms	32
+10659	Hps	synonyms	945
+10719	Orf	synonyms	96
+10782	Gag	synonyms	1121
+10889	Jet	synonyms	279
+11068	Ovo	synonyms	1171
+11094	3-hydroxyacyl-CoA dehydrogenase type II	synonyms	1262
+11108	1-acylglycerophosphocholine O-acyltransferase 1	synonyms	26
+11128	CAD protein	synonyms	1228
+11128	r	synonyms	1228
+11144	Frc	synonyms	970
+11209	Fon	synonyms	669
+11230	Ngp	synonyms	1482
+11235	ubiquitin-protein ligase activity	synonyms	1480
+11236	Fzy	synonyms	1480
+11240	Set	synonyms	1480
+11278	CamB	synonyms	1356
+11384	Jim	synonyms	1052
+11502	JanB	synonyms	1442
+11721	Ect	synonyms	1490
+11771	Ror	synonyms	1066
+11795	Gus	synonyms	1481
+11802	Slv	synonyms	168
+11817	Btz	synonyms	211
+11935	Polycomb protein l(1)G0020	synonyms	669
+12032	Mdh	synonyms	1152
+12061	Lcs	synonyms	1532
+12157	Mrj	synonyms	40
+12194	Bys	synonyms	1099
+12198	Mnf	synonyms	982
+12232	Wee	synonyms	1451
+12249	Tep	synonyms	1480
+12264	Tey	synonyms	1547
+12265	Galactoside 3-L-fucosyltransferase	synonyms	1315
+12265	Galactoside 3-L-fucosyltransferase	synonyms	1315
+12280	Gdl	synonyms	1427
+12342	Kuk	synonyms	1232
+12418	Rap	synonyms	1490
+12487	Lig	synonyms	678
+12546	Mam	synonyms	380
+12556	Fok	synonyms	1537
+12590	Tow	synonyms	641
+12703	Pio	synonyms	1306
+12839	Pol	synonyms	1381
+12892	CamB	synonyms	527
+12954	Aly	synonyms	823
+12962	Lqf	synonyms	1017
+13102	Rha	synonyms	115
+13150	Orf	synonyms	1336
+13187	Rfx	synonyms	987
+13283	Gag	synonyms	1171
+13298	Fau	synonyms	579
+13351	Aft	synonyms	641
+13420	Cup	synonyms	650
+13429	Pcx	synonyms	554
+13468	Nol	synonyms	1384
+13524	Pol	synonyms	1381
+13559	Asl	synonyms	462
+13598	Ire	synonyms	1451
+13645	Tep	synonyms	678
+13716	Pol	synonyms	1381
+13803	Bar	synonyms	833
+13851	Fat	synonyms	1214
+13874	Ast	synonyms	1451
+14020	CamC	synonyms	1214
+14090	CG9712-PA (Tumor suppressor protein 101)	synonyms	1480
+14091	Pol	synonyms	1381
+14121	Kua	synonyms	1121
+14249	DAD-1	synonyms	1470
+14249	Defender against cell death 1	synonyms	1470
+14281	Rod	synonyms	1384
+14313	Gry	synonyms	641
+14384	Pol	synonyms	1381
+14424	Ptr	synonyms	1121
+14435	Klg	synonyms	1121
+14450	Koi	synonyms	641
+14541	Cys-Gly	synonyms	641
+14542	&gamma;-glutamylcysteine	synonyms	641
+14542	&gamma;-L-glutamyl-L-cysteine	synonyms	641
+14545	apo-[acyl carrier protein]	synonyms	641
+14545	AcpM	synonyms	641
+14545	B1094	synonyms	641
+14545	apoprotein [acyl carrier protein]	synonyms	641
+14545	AcpP	synonyms	641
+14545	acyl carrier protein	synonyms	641
+14545	apo-ACP	synonyms	641
+14545	ACP	synonyms	641
+14546	AcpM	synonyms	641
+14546	B1094	synonyms	641
+14546	AcpP	synonyms	641
+14546	acyl carrier protein	synonyms	641
+14546	ACP-SH	synonyms	641
+14546	ACP	synonyms	641
+14551	A glycoprotein with the (glucosyl)<SUB>3</SUB>(mannosyl)<SUB>9</SUB>(<i>N</i>-acetylglucosaminyl)<SUB>2</SUB> chain attached by glycosylamine linkage to protein-L-asparagine	synonyms	641
+14557	camphor 5-exo-methylene hydroxylase	synonyms	180
+14557	2-boranone 5-exo-hydroxylase	synonyms	180
+14557	camphor hydroxylase	synonyms	180
+14557	methylene hydroxylase	synonyms	180
+14557	methylene monooxygenase	synonyms	180
+14574	THI5	synonyms	180
+14574	HMP-P synthase	synonyms	180
+14576	[microsomal-membrane-protein]	synonyms	180
+14585	a sulfur donor	synonyms	180
+14598	a ribosomal-protein L-alanine	synonyms	180
+14598	ribosomal-protein L-alanine	synonyms	180
+14599	Glc&beta;-Ser<sup>53</sup>-EGF-like domain of bovine factor IX(45-87)	synonyms	180
+14607	FVIII	synonyms	180
+14607	anti-hemophilic factor	synonyms	180
+14616	[SoxZY]-S-thiocysteine	synonyms	180
+14616	[SoxZY]-persulfide	synonyms	180
+14629	a peptide	synonyms	180
+14629	peptide	synonyms	180
+14635	mature 1L-1&beta;	synonyms	180
+14636	proconvertin	synonyms	180
+14643	LovF	synonyms	180
+14646	a ubiquitin-conjugating enzyme	synonyms	180
+14646	a ubiquitin-carrier enzyme	synonyms	180
+14647	ubiquitin-activating enzyme	synonyms	180
+14653	biotin-carboxyl-carrier protein	synonyms	180
+14653	BCCP	synonyms	180
+14653	biotin-carboxyl-carrier protein monomer	synonyms	180
+14657	RPL3	synonyms	180
+14658	peptide chain release factor	synonyms	180
+14659	LysW	synonyms	180
+14659	&alpha;-aminoadipate carrier protein	synonyms	180
+14659	[an L-2-aminoadipate carrier protein]	synonyms	180
+14661	peptide	synonyms	180
+14663	EGF-domain	synonyms	180
+14670	oxidized Fe-S protein	synonyms	180
+14695	a protein with oxidized disulfide bonds	synonyms	180
+14695	protein with oxidized disulfide bonds	synonyms	180
+14696	[SoxZY]-thiocysteine-sulfate	synonyms	180
+14696	[SoxZY]-thiosulfonate	synonyms	180
+14703	apo-domain	synonyms	180
+14704	transferrin[Fe(III)]<sub>2</sub>	synonyms	180
+14706	a ribosomal-protein N-acetyl-L-alanine	synonyms	180
+14706	ribosomal-protein N-acetyl-L-alanine	synonyms	180
+14725	tRNA-2-methylthio-<i>N</i><sup>6</sup>-threonylcarbamoyladenosine synthase	synonyms	180
+14725	(N6-L-threonylcarbamoyladenosine<sup>37</sup>-C2)-methylthiotransferase	synonyms	180
+14726	[MtaB]-S	synonyms	180
+14727	(2Z)-2-amino-3-hydroxy-3-(4-hydroxyphenyl)prop-2-enoate-[NovH protein]	synonyms	180
+14727	&beta;-keto-L-tyrosine-<i>S</i>-[NovH protein]	synonyms	180
+14728	(R)-3-hydroxy-L-tyrosine-<i>S</i>-[NovH protein]	synonyms	180
+14730	a PKS	synonyms	180
+14734	transferrin[Fe(II)]<sub>2</sub>	synonyms	180
+14736	a cupredoxin	synonyms	180
+14741	factor I	synonyms	180
+14744	pro-IL-1&beta;	synonyms	180
+14750	Xaa-Xaa-Pro-Yaa-	synonyms	180
+14751	Hageman factor	synonyms	180
+14759	a poly &gamma;-glutamylcysteine-glycine	synonyms	180
+14760	a persulfurated L-cysteine desulfurase	synonyms	180
+14766	a stage IV sporulation protein B	synonyms	180
+14766	a sporulation factor IV B protease	synonyms	180
+14770	a sulfurylated sulfur-carrier protein ThiI	synonyms	180
+14772	a protein with reduced SH groups	synonyms	180
+14772	protein with reduced SH groups	synonyms	180
+14773	Hc-Pro	synonyms	180
+14776	an <i>N</i>-acetyl-peptide	synonyms	180
+14791	lipoyl-domain	synonyms	180
+14806	translation elongation factor 2	synonyms	180
+14807	tumor necrosis factor &alpha;	synonyms	180
+14808	pyroglutamyl-peptide	synonyms	180
+14809	Xyl&alpha;(1-3)Glc&beta;-Ser<sup>53</sup>-EGF-like domain of bovine factor IX(45-87)	synonyms	180
+14822	Stuart-Prower factor	synonyms	180
+14822	thrombokinase	synonyms	180
+14823	a hypoxia-inducible factor-(3<i>S</i>)-3-hydroxy-L-asparagine	synonyms	180
+14826	Christmas factor	synonyms	180
+14830	HIF-&alpha;	synonyms	180
+14837	a fucosylated protein acceptor	synonyms	180
+14843	hypoxia-inducible factor-trans-4-hydroxy-L-proline	synonyms	180
+14857	ubiquitin-carrier protein E2	synonyms	180
+14857	ubiquitin-carrier enzyme E2	synonyms	180
+14857	(E3-independent) ubiquitin-conjugating enzyme E2	synonyms	180
+14859	Rhd rhodanese	synonyms	180
+14861	SAMP	synonyms	180
+14864	<i>apo</i>-PecA	synonyms	180
+14865	PecA	synonyms	180
+14866	CpeB	synonyms	180
+14868	CpeA	synonyms	180
+14878	LovB	synonyms	180
+14878	LNKS	synonyms	180
+14879	<i>apo</i>-PecB	synonyms	180
+14880	a [phycoerythrocyanin &beta;-subunit Cys-84]-PCB	synonyms	180
+14881	a [phycoerythrocyanin &beta;-subunit Cys-155]-PCB	synonyms	180
+14882	CpcB	synonyms	180
+14883	a [C-phycocyanin &beta;-subunit-Cys82]-PCB	synonyms	180
+14884	a [C-phycocyanin &beta;-subunit-Cys-155]--PCB	synonyms	180
+14885	<i>apo</i>-ApcB	synonyms	180
+14886	a [allophycocyanin &beta;-subunit-Cys84]-PCB	synonyms	180
+14887	RpcA	synonyms	180
+14888	[R-PC&alpha;]-phycourobilin	synonyms	180
+14889	CpcA	synonyms	180
+14891	<i>apo</i>-ApcA	synonyms	180
+14892	a [allophycocyanin &alpha;-subunit-Cys84]-PCB	synonyms	180
+14893	elongation-factor 2 phosphate	synonyms	180
+14908	phospho- [tyrosine-3-monooxygenase]	synonyms	180
+14924	a &gamma;-D-glutamyl-D-glutamyl-peptide	synonyms	180
+14927	<i>Saccharomyces cerevisiae</i> mating pheromon &alpha; factor	synonyms	180
+14939	Xaa-Pro	synonyms	180
+14941	Met-Xaa dipeptide	synonyms	180
+14944	L-Arg-L-Xaa	synonyms	180
+14964	an oxidized Fe-S protein	synonyms	180
+14965	a <i>holo</i>-[2Fe-2S] cluster protein	synonyms	180
+14966	FeS-Proteins-2e	synonyms	180
+14966	reduced Fe-S protein	synonyms	180
+14968	oxidized ferredoxin	synonyms	180
+14970	reduced ferredoxin	synonyms	180
+14980	an adrenal ferredoxin	synonyms	180
+14986	Co(I)FeSP	synonyms	180
+14986	a corrinoid Fe-S protein	synonyms	180
+14987	an MtsB corrinoid protein	synonyms	180
+14987	a [methanethiol-specific corrinoid protein]	synonyms	180
+14988	an MtbC protein	synonyms	180
+14988	a [dimethylamine-specific corrinoid protein]	synonyms	180
+14989	an MtqC corrinoid protein	synonyms	180
+14989	a [tetramethylammonium-specific corrinoid protein]	synonyms	180
+14990	an MttC corrinoid protein	synonyms	180
+14990	a [trimethylamine-specific corrinoid protein]	synonyms	180
+14991	an MtmC corrinoid protein	synonyms	180
+14991	a [methylamine-specific corrinoid protein]	synonyms	180
+14993	a [corrinoid Fe-S protein]	synonyms	180
+15011	cytochrome <i>b</i> proteins	synonyms	180
+15013	a ferrocytochrome	synonyms	180
+15014	a ferricytochrome	synonyms	180
+15016	Cytochrome D protein	synonyms	180
+15016	cytd proteins	synonyms	180
+15019	Cytochrome C protein	synonyms	180
+15019	a Cytochrome C protein	synonyms	180
+15019	ferricytochrome c	synonyms	180
+15024	ferricytochrome c	synonyms	180
+15027	ferrocytochrome c	synonyms	180
+15029	a ferrocytochrome <i>c<sub>3</sub></i>	synonyms	180
+15030	a ferricytochrome <i>c<sub>3</sub></i>	synonyms	180
+15034	a ferricytochrome <i>c</i><sub>2</sub>	synonyms	180
+15036	an oxidized cytochrome C552 protein	synonyms	180
+15037	a ferricytochrome <i>c</i>-553	synonyms	180
+15049	a ferrocytochrome <i>c</i>-553	synonyms	180
+15054	a ferrocytochrome <i>c</i><sub>2</sub>	synonyms	180
+15059	an oxidized cytochrome <i>b</i>	synonyms	180
+15061	a ferrocytochrome <i>b<sub>561</sub></i>	synonyms	180
+15061	ferrocytochrome b-561	synonyms	180
+15062	a ferricytochrome <i>b<sub>561</sub></i>	synonyms	180
+15062	ferricytochrome b-561	synonyms	180
+15063	reduced cytochrome <i>b<SUB>5</SUB></i>	synonyms	180
+15064	oxidized cytochrome <i>b<sub>5</sub></i>	synonyms	180
+15065	oxidized cytochrome <i>b</i><sub>1</sub>	synonyms	180
+15065	cytochrome  <i>b</i><sub>1</sub> oxidized	synonyms	180
+15066	reduced cytochrome  <i>b</i><sub>1</sub>	synonyms	180
+15066	cytochrome  <i>b</i><sub>1</sub> reduced	synonyms	180
+15069	reduced Cytochrome D protein	synonyms	180
+15069	cytD proteins-2e	synonyms	180
+15076	adenylyl-[ThiS]	synonyms	180
+15077	This-COSH protein	synonyms	180
+15083	dihydroflavidoxin	synonyms	180
+15084	flavodoxin (oxidized)	synonyms	180
+15085	electron transfer flavoprotein	synonyms	180
+15085	ETFH<sub>2</sub>	synonyms	180
+15085	reduced ETF	synonyms	180
+15085	reduced electron transfer flavoprotein	synonyms	180
+15086	oxidized ETF	synonyms	180
+15087	an oxidized flavoprotein (FAD)	synonyms	180
+15087	oxidized flavoprotein (FAD)	synonyms	180
+15087	flavoprotein (FAD)	synonyms	180
+15088	an oxidized flavoprotein (FMN)	synonyms	180
+15088	oxidized flavoprotein (FMN)	synonyms	180
+15088	flavoprotein (FMN)	synonyms	180
+15089	a reduced flavoprotein (FMNH<sub>2</sub>)	synonyms	180
+15089	reduced flavoprotein (FMNH<sub>2</sub>)	synonyms	180
+15089	flavoprotein (FMNH2)	synonyms	180
+15090	a reduced flavoprotein (FADH<sub>2</sub>)	synonyms	180
+15090	reduced flavoprotein (FADH<sub>2</sub>)	synonyms	180
+15090	flavoprotein (FADH2)	synonyms	180
+15092	PKS13	synonyms	180
+15099	azurin<sub>red</sub>	synonyms	180
+15100	azurin<sub>ox</sub>	synonyms	180
+15104	an I&kappa;B phosphoprotein	synonyms	180
+15105	phospho-[?-adrenergic receptor]	synonyms	180
+15107	Xaa-Xaa-Pro	synonyms	180
+15109	activated factor II	synonyms	180
+15109	factor IIa	synonyms	180
+15116	a thioredoxin disulfide	synonyms	180
+15129	AcpP	synonyms	180
+15129	holo-[acyl-carrier protein]	synonyms	180
+15129	ACP-SH	synonyms	180
+15129	ACP	synonyms	180
+15129	[acyl-carrier protein]	synonyms	180
+15135	a &gamma;-amino butyryl-[acp]	synonyms	180
+15135	a 4-amino butyryl-[BtrI acyl-carrier protein]	synonyms	180
+15135	a 4-amino butyryl-[acp]	synonyms	180
+15135	a &gamma;-amino butyryl-[BtrI acyl-carrier protein]	synonyms	180
+15135	a 4-amino butanoyl-[acp]	synonyms	180
+15137	a &gamma;-L-Glu-AHBA-[BtrI acyl-carrier protein]	synonyms	180
+15137	a &gamma;-L-Glu-AHBA-S-BtrI	synonyms	180
+15138	an L-glutamyl-[acp]	synonyms	180
+15151	a phosphopantetheinylated aryl-carrier protein	synonyms	180
+15158	E2(O)	synonyms	180
+15159	E2(P)	synonyms	180
+15160	a ubiquinol-8 oxidoreductase	synonyms	180
+15160	ubiquinol-8 oxidoreductase	synonyms	180
+15161	a ubiquinone-8 oxidoreductase	synonyms	180
+15161	ubiquinone-8 oxidoreductase	synonyms	180
+15162	a menaquinone oxidoreductase (demethylmenaquinol)	synonyms	180
+15162	menaquinone oxidoreductase (demethylmenaquinol)	synonyms	180
+15163	a menaquinone oxidoreductase (demethylmenaquinone)	synonyms	180
+15163	menaquinone oxidoreductase (demethylmenaquinone)	synonyms	180
+15164	a menaquinone oxidoreductase (menaquinol-8)	synonyms	180
+15164	menaquinone oxidoreductase (menaquinol-8)	synonyms	180
+15165	a menaquinone oxidoreductase (menaquinone-8)	synonyms	180
+15165	menaquinone oxidoreductase (menaquinone-8)	synonyms	180
+15168	[G-protein-coupled receptor] phosphate	synonyms	180
+15173	a reduced hybrid-cluster protein	synonyms	180
+15173	reduced hybrid-cluster protein	synonyms	180
+15173	hybrid-cluster protein<SUB>red</SUB>	synonyms	180
+15174	an oxidized hybrid-cluster protein	synonyms	180
+15174	oxidized hybrid-cluster protein	synonyms	180
+15174	hybrid-cluster protein<SUB>ox</SUB>	synonyms	180
+15178	a retinaldehyde-binding protein	synonyms	180
+15182	PecA	synonyms	180
+15183	PecA	synonyms	180
+15189	palmitoyl[protein]	synonyms	180
+15191	3-(2,4-bis[N-acetyl-b-D-glucosaminyl]-a-D-mannosyl)-b-D-mannosyl-R	synonyms	180
+15193	APC	synonyms	180
+15199	a biotinyl-[protein]	synonyms	180
+15207	a protein ribulosamine	synonyms	180
+15210	a dinitrogenase, oxidized	synonyms	180
+15210	a dinitrogen reductase, oxidized	synonyms	180
+15210	a nitrogenase, oxidized	synonyms	180
+15213	activated factor X	synonyms	180
+15217	a protein erythrulosamine lysine	synonyms	180
+15219	a [citrate (pro-3S)-lyase](citryl form)	synonyms	180
+15219	a [citrate-lyase] (citryl form)	synonyms	180
+15221	a protein erythrulosamine	synonyms	180
+15229	activated factor IX	synonyms	180
+15237	activated factor V	synonyms	180
+15237	proaccelerin	synonyms	180
+15241	6-(2-[N-acetyl-b-D-glucosaminyl]-a-D-mannosyl)-b-D-mannosyl-R	synonyms	180
+15245	activated factor XI	synonyms	180
+15249	[citrate-oxaloacetate-lyase((pro-3S)-CH2COO-acetate)]	synonyms	180
+15249	citrate-oxaloacetate-lyase	synonyms	180
+15249	[citrate (pro-3S)-lyase](acetyl form)	synonyms	180
+15253	6-(a-D-mannosyl)-b-D-mannosyl-R	synonyms	180
+15259	a DsrEFH complex persulfide	synonyms	180
+15261	BCCP dimer	synonyms	180
+15261	biotin carboxy carrier protein (dimer)	synonyms	180
+15265	a carboxybiotinyl-[protein]	synonyms	180
+15274	a protein psicosamine	synonyms	180
+15281	mucopolysaccharides	synonyms	180
+15283	protein <i>O</i>-D-xyloside	synonyms	180
+15283	a core protein L-serine-&beta;-D-xylose	synonyms	180
+15283	D-xylosylprotein	synonyms	180
+15285	chondroitin sulfate proteoglycan 1	synonyms	180
+15286	&alpha;-<i>N</i>-acetyl-D-galactosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosyl-[proteoglycan]	synonyms	180
+15288	<i>N</i>-acetyl-D-galactosaminyl-1,4-&beta;-D-glucuronyl-<i>N</i>-acetyl-1,3-&beta;-D-galactosaminylproteoglycan	synonyms	180
+15288	<i>N</i>-acetyl-&beta;-D-galactosaminyl-(1->4)-&beta;-D-glucuronosyl-[proteoglycan]	synonyms	180
+15289	chondroitin-D-glucuronate	synonyms	180
+15291	hyaluronic acid	synonyms	180
+15291	hyaluronate	synonyms	180
+15294	keratan sulfate	synonyms	180
+15294	Kerato sulfate	synonyms	180
+15294	keratan 6'-sulfate	synonyms	180
+15294	kerato 6'-sulfate	synonyms	180
+15295	enoxaparin	synonyms	180
+15296	heparitin sulfate	synonyms	180
+15298	[dermatan]-&beta;-D-glucuronate	synonyms	180
+15302	chondroitin 4-sulfate	synonyms	180
+15305	[dermatan]-<i>N</i>-acetyl-galactosamine 4'-sulfate	synonyms	180
+15306	dermatan-L-iduronate	synonyms	180
+15308	keratan sulfate	synonyms	180
+15308	kerato sulfate	synonyms	180
+15308	keratan	synonyms	180
+15308	kerato 6'-sulfate	synonyms	180
+15309	a keratan glucosamine	synonyms	180
+15310	a keratan glucosamine-6-<i>O</i>-sulfate	synonyms	180
+15311	a heparin <i>N</i>-acetylglucosamine-3-<i>O</i>-sulfate	synonyms	180
+15312	a heparin <i>N</i>-sulfoglucosamine	synonyms	180
+15313	a heparin <i>N</i>-sulfoglucosamine-3-<i>O</i>-sulfate	synonyms	180
+15314	N-acetyl-&alpha;-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->4)-N-acetyl-&alpha;-D-glucosaminylproteoglycan	synonyms	180
+15314	N-acetyl-&alpha;-D-glucosaminyl-(1->4)-&beta;-D-glucuronosylproteoglycan	synonyms	180
+15314	<i>N</i>-acetyl-a-D-glucosaminide-[heparan sulfate]	synonyms	180
+15318	&beta;-D-glucuronosyl-(1->3)-N-acetyl-&alpha;-D-glucosaminyl-[hyaluronan]	synonyms	180
+15318	&beta;-D-glucuronosyl-(1->3)-N-acetyl-&alpha;-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-[hyaluronan]	synonyms	180
+15319	&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosylproteoglycan	synonyms	180
+15320	&alpha;-N-acetyl-D-glucosaminyl-&beta;-D-glucuronosyl-(1->3)-&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosyl-[proteoglycan]	synonyms	180
+15320	&alpha;-N-acetyl-D-glucosaminyl-&beta;-D-glucuronosyl-(1->3)-&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosylproteoglycan	synonyms	180
+15321	&beta;-D-glucuronosyl-(1->3)-&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosyl-[proteoglycan]	synonyms	180
+15321	&beta;-D-glucuronosyl-(1->3)-&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosylproteoglycan	synonyms	180
+15322	a heparin glucosamine	synonyms	180
+15323	&beta;-D-glucuronosyl-(1->4)-N-acetyl-&alpha;-D-glucosaminylproteoglycan	synonyms	180
+15323	&beta;-D-glucuronosyl-(1->4)-N-acetyl-&alpha;-D-glucosaminyl-(1->4)-&beta;-D-glucuronosylproteoglycan	synonyms	180
+15326	[heparosan-<i>N</i>-sulfate]-D-glucuronate	synonyms	180
+15326	heparosan-<i>N</i>-sulfate D-glucuronate	synonyms	180
+15327	[heparan sulfate]-glucosamine 3-sulfate	synonyms	180
+15328	3-&beta;-D-glucuronosyl-3-&beta;-D-galactosyl-4-&beta;-D-galactosyl-O-&beta;-D-xylosylprotein	synonyms	180
+15328	&beta;-D-glucuronyl-1,3-D-galactosylproteoglycan	synonyms	180
+15329	D-glucuronyl-<i>N</i>-acetyl-1,3-&beta;-D-galactosaminylproteoglycan	synonyms	180
+15329	&beta;-D-glucuronosyl-(1->3)-<i>N</i>-acetyl-&beta;-D-galactosaminyl-(1->4)-&beta;-D-glucuronosyl-[proteoglycan]	synonyms	180
+15331	A glycoprotein with the (glucosyl)<SUB>3</SUB>(mannosyl)<SUB>9</SUB>(<i>N</i>-acetylglucosaminyl)<SUB>2</SUB> chain attached by glycosylamine linkage to protein-L-asparagine	synonyms	180
+15336	acyl-[acyl carrier protein]	synonyms	180
+15336	CH3(CH2)xCO-S-ACP	synonyms	180
+15336	acyl-ACP	synonyms	180
+15337	a 3-oxoacyl-[acyl-carrier protein]	synonyms	180
+15337	an acetoacyl-ACP	synonyms	180
+15337	CH3(CH2)xCOCH2CO-S-ACP	synonyms	180
+15338	a fatty-acyl-[acyl-carrier-protein]	synonyms	180
+15341	a (3R)-3-hydroxyacyl-[acyl-carrier protein]	synonyms	180
+15341	CH3(CH2)xCHOHCH2CO-S-ACP	synonyms	180
+15341	a &beta;-OH-acyl-ACP	synonyms	180
+15341	a &beta;-hydroxy-acyl-ACP	synonyms	180
+15357	a 3-keto-stearoyl-[acp]	synonyms	180
+15357	a 3-oxo-octadecanoyl-[acp]	synonyms	180
+15358	a 3-keto-palmitoyl-[acp]	synonyms	180
+15358	a 3-oxo-hexadecanoyl-[acp]	synonyms	180
+15368	a 3-keto-dodecanoyl-[acp]	synonyms	180
+15369	a 3-ketoglutaryl-[acp] methyl ester	synonyms	180
+15370	a 3-keto-decanoyl-[acp]	synonyms	180
+15371	a 3-oxo-tetradecanoyl-[acp]	synonyms	180
+15371	a 3-keto-meristoyl-[acp]	synonyms	180
+15376	a 3-ketopimeloyl-[acp] methyl ester	synonyms	180
+15379	a 3-oxo-docosapentaenoyl [acyl-carrier-protein]	synonyms	180
+15386	AcpP	synonyms	180
+15386	malonyl-[acyl-carrier protein]	synonyms	180
+15386	malonyl-S-ACP	synonyms	180
+15386	malonyl-acyl-carrier-protein	synonyms	180
+15387	a long-chain acyl-[acyl-carrier protein]	synonyms	180
+15387	a fatty acyl-[acp]	synonyms	180
+15392	a dodecanoyl-[acyl-carrier protein]	synonyms	180
+15392	a lauryl-[acp]	synonyms	180
+15395	a palmitoyl-[acyl-carrier-protein]	synonyms	180
+15403	a &beta;-hydroxyhexanoyl-[acp]	synonyms	180
+15424	a (R)-3-hydroxyoctadecnoyl-[acp]	synonyms	180
+15425	a &beta;-hydroxyoctanoyl-[acp]	synonyms	180
+15432	an (<i>R</i>)-3-hydroxydecanoyl-[acyl-carrier protein]	synonyms	180
+15432	a &beta;-hydroxydecanoyl-[acp]	synonyms	180
+15435	a &beta;-hydroxydodecanoyl-[acp]	synonyms	180
+15438	a &beta;-hydroxypalmitoyl-[acp]	synonyms	180
+15443	a &beta;-hydroxymyristoyl-[acp]	synonyms	180
+15446	a &beta;-3-hydroxybutyryl-[acp]	synonyms	180
+15523	a butanoyl-[acp]	synonyms	180
+15527	AcpP	synonyms	180
+15527	acetyl-[acyl-carrier protein]	synonyms	180
+15527	acetylacylcarrier-protein	synonyms	180
+15531	a &Delta;4-hexadecenoyl-[acyl-carrier-protein]	synonyms	180
+15535	a trans-2,3-dehydroacyl-[acyl-carrier protein]	synonyms	180
+15535	a trans-2,3-dehydroacyl-ACP	synonyms	180
+15535	CH3(CH2)xCH=CHCO-S-ACP	synonyms	180
+15535	an &alpha;,&beta;-trans-enoyl-ACP	synonyms	180
+15542	CH3(CH2)x-1CH=CHCH2CO-S-ACP	synonyms	180
+15548	a &Delta;6-hexadecenoyl-[acyl-carrier-protein]	synonyms	180
+15549	a petroselinoyl-[acyl-carrier-protein]	synonyms	180
+15554	a <i>cis</i>-3,4-dehydrodecanoyl-ACP	synonyms	180
+15558	a (<i>Z</i>)-3-oxooctadec-13-enoyl-[acp]	synonyms	180
+15558	a (<i>Z</i>)-3-oxooctadec-13-enoyl-[acyl-carrier-protein]	synonyms	180
+15558	a <i>cis</i>-vaccenoyl-[acyl-carrier protein]	synonyms	180
+15560	a (<i>Z</i>)-hexadec-11-enoyl-[acp]	synonyms	180
+15560	a (<i>Z</i>)-hexadec-11-enoyl-[acyl-carrier-protein]	synonyms	180
+15567	<i>trans</i>-2,3-stearoyl-[acp]	synonyms	180
+15575	a <i>trans</i>-oct-2-enoyl-[acp]	synonyms	180
+15575	a <i>trans</i>-oct-2-enoyl-[acyl-carrier protein]	synonyms	180
+15575	(2E)-octenoyl-[acp]	synonyms	180
+15578	a but-2-enoyl-[acp]	synonyms	180
+15579	5-amino-2-(2-{[1-(2-amino-3-phenylpropanoyl)pyrrolidin-2-yl]formamido}-3-methylbutanamido)-N-(5-methyl-2-oxohexan-3-yl)pentanamide-[acp]	synonyms	180
+15580	an S-ACP 6-(3'-hydroxy-2'-(3''-oxobutanoyl)phenyl)-3,5-dioxohexanethioate	synonyms	180
+15580	intermediate 3	synonyms	180
+15581	a S-ACP 6-(1',5'-dihydroxy-3'-oxo-2'-(3''-oxobutanoyl)cyclohexyl)-3,5-dioxohexanethioate	synonyms	180
+15581	intermediate 2	synonyms	180
+15582	a rifamycin undecaketide-[PKS-acp] intermediate	synonyms	180
+15583	a rifamycin cyclized pentaketide-[PKS-acp] intermediate	synonyms	180
+15584	a rifamycin tetraketide-[PKS-acp] intermediate	synonyms	180
+15585	octaketide	synonyms	180
+15586	intermediate1	synonyms	180
+15586	a S-ACP 6-(1'-hydroxy-3',5'-dioxo-2'-(3''-oxobutanoyl)cyclohexyl)-3,5-dioxohexanethioate	synonyms	180
+15587	a 3-amino-5-hydroxybenzoyl-[PKS-acp] starter unit	synonyms	180
+15605	deacetyl-[citrate-oxaloacetate-lyase((pro-3S)-CH2COO-acetate)]	synonyms	180
+15605	deacetyl-(citrate-oxaloacetate-lyase)	synonyms	180
+15605	deacetyl-citrate-lyase	synonyms	180
+15605	[citrate (pro-3S)-lyase](thiol form)	synonyms	180
+15610	phospho-[microsomal-membrane-protein]	synonyms	180
+15639	MscS	synonyms	180
+15681	[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)]	synonyms	180
+15682	[pyruvate dehydrogenase (acetyl-transferring)]	synonyms	180
+15686	CoFeSP	synonyms	180
+15714	plasma thromboplastin antecedent	synonyms	180
+15726	apo-[methylmalonyl-CoA-carboxyltransferase]	synonyms	180
+15729	holo-[methylmalonyl-CoA:pyruvate carboxytransferase]	synonyms	180
+15729	biotin-[methylmalonyl-CoA:pyruvate carboxytransferase]	synonyms	180
+15729	holo-[methylmalonyl-CoA-carboxyltransferase]	synonyms	180
+15729	biotin-[methylmalonyl-CoA-carboxyltransferase]	synonyms	180
+15733	a dinitrogenase	synonyms	180
+15733	a nitrogen reductase	synonyms	180
+15735	a dinitrogenase, reduced	synonyms	180
+15735	a nitrogenase, reduced	synonyms	180
+15735	a dinitrogen reductase, reduced	synonyms	180
+15737	lactyl-CoA dehydratase, inactive	synonyms	180
+15738	[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)] phosphate	synonyms	180
+15739	[pyruvate dehydrogenase (acetyl-transferring)] phosphate	synonyms	180
+15746	a methemoglobin	synonyms	180
+15752	[receptor-protein] phosphate	synonyms	180
+15753	a sulfurated sulfur acceptor	synonyms	180
+15755	an unsulfurated sulfur donor	synonyms	180

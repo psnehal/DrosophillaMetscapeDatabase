@@ -1,0 +1,821 @@
+1	glutamate and glutamine biosynthesis	PWY-5505	9
+2	Inferred computationally without human oversight	LIPASYN-PWY	9
+3	superpathway of aspartate and asparagine biosynthesis; interconversion of aspartate and asparagine	ASPASN-PWY	9
+4	tRNA charging pathway	TRNA-CHARGING-PWY	9
+5	superpathway of glyoxylate cycle	PWY-561	9
+6	pantothenate and coenzyme A biosynthesis I	PANTOSYN-PWY	9
+7	gluconeogenesis II (Methanobacterium thermoautotrophicum)	PWY-6142	9
+8	colanic acid building blocks biosynthesis	COLANSYN-PWY	9
+9	phospholipid biosynthesis II	PHOSLIPSYN2-PWY	9
+10	&gamma;-glutamyl cycle	PWY-4041	9
+11	superpathway of heme biosynthesis from uroporphyrinogen-III	PWY0-1415	9
+12	superpathway of serine and glycine biosynthesis I	SER-GLYSYN-PWY	9
+13	glycerol degradation I	PWY0-381	9
+14	purine deoxyribonucleosides degradation	PWY0-1297	9
+15	cysteine biosynthesis III (mammalia)	PWY-6292	9
+16	pyruvate fermentation to acetate VI	PWY-5538	9
+17	superpathway of polyamine biosynthesis II	POLYAMINSYN3-PWY	9
+18	degradation of pyrimidine deoxyribonucleosides	PWY0-1298	9
+19	superpathway of ornithine degradation	ORNDEG-PWY	9
+20	pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	9
+21	tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	9
+22	de novo biosynthesis of pyrimidine deoxyribonucleotides	PWY0-166	9
+23	homolactic fermentation	ANAEROFRUCAT-PWY	9
+24	peptidoglycan biosynthesis III	PEPTIDOGLYCANSYN-PWY	9
+25	arginine biosynthesis I	ARGSYN-PWY	9
+26	superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY	9
+27	superpathway of alanine biosynthesis	PWY0-1061	9
+28	phosphatidylglycerol biosynthesis II	PWY4FS-8	9
+29	superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	PWY-5910	9
+30	heme biosynthesis II	PWY-5920	9
+31	glutamate degradation VII (to butyrate)	GLUDEG-II-PWY	9
+32	superpathway of fatty acid biosynthesis initiation (E. coli)	FASYN-INITIAL-PWY	9
+33	geranylgeranyldiphosphate biosynthesis II (plastidic)	PWY-5121	9
+34	superpathway of glutamate biosynthesis	AMMASSIM-PWY	9
+35	phosphatidylglycerol biosynthesis I (plastid)	PWY4FS-7	9
+36	superpathway of polyamine biosynthesis I	POLYAMSYN-PWY	9
+37	pyruvate fermentation to acetate V	PWY-5537	9
+38	glycogen degradation II	PWY-5767	9
+39	pentose phosphate pathway	PENTOSE-P-PWY	9
+40	Methanobacterium thermoautotrophicum biosynthetic metabolism	PWY-6146	9
+41	NAD salvage pathway II	NAD-BIOSYNTHESIS-II	9
+42	superpathway of parathion degradation	PARATHION-CATABOLISM-PWY	9
+43	superpathway of N-acetylneuraminate degradation	P441-PWY	9
+44	superpathway of 5-aminoimidazole ribonucleotide biosynthesis	PWY-6277	9
+45	superpathway of arginine and polyamine biosynthesis	ARG+POLYAMINE-SYN	9
+46	superpathway of glycolysis and Entner-Doudoroff	GLYCOLYSIS-E-D	9
+47	4-aminobutyrate degradation I	4AMINOBUTMETAB-PWY	9
+48	glutamate degradation IX (via 4-aminobutyrate)	PWY3O-210	9
+49	&gamma;-butyrobetaine degradation	PWY-3621	9
+50	purine nucleotides de novo biosynthesis II	PWY-841	9
+51	tetrahydrofolate biosynthesis	FOLSYN-PWY	9
+52	tryptophan degradation XI (mammalian, via kynurenine)	PWY-6309	9
+53	copper transport II	PWY-6137	9
+54	calcium transport I	PWY-6166	9
+55	PRPP biosynthesis I	PWY0-662	9
+56	sulfate activation for sulfonation	PWY-5340	9
+57	thiosulfate disproportionation III (rhodanese)	PWY-5350	9
+58	sulfite oxidation IV	PWY-5326	9
+59	wound-induced proteolysis I	PWY-5988	9
+60	urate biosynthesis	PWY-5695	9
+61	degradation of purine ribonucleosides	PWY0-1296	9
+62	salvage pathways of adenine, hypoxanthine, and their nucleosides	SALVADEHYPOX-PWY	9
+63	degradation of pyrimidine ribonucleosides	PWY0-1295	9
+64	&beta;-alanine biosynthesis III	PWY-3982	9
+65	glycogen degradation II	PWY-5941	9
+66	glycogen degradation I	GLYCOCAT-PWY	9
+67	methyl parathion degradation	PWY-5489	9
+68	paraoxon degradation	PWY-5490	9
+69	urate degradation to allantoin	PWY-5691	9
+70	mevalonate degradation	PWY-5074	9
+71	superpathway of gluconate degradation	GLUCONSUPER-PWY	9
+72	glutaryl-CoA degradation	PWY-5177	9
+73	itaconate degradation	PWY-5749	9
+74	acetyl-CoA biosynthesis (from pyruvate)	PYRUVDEHYD-PWY	9
+75	acetate conversion to acetyl-CoA	PWY0-1313	9
+76	methylmalonyl pathway	PROPIONMET-PWY	9
+77	sphingosine and sphingosine-1-phosphate metabolism	PWY3DJ-11470	9
+78	triacylglycerol degradation	LIPAS-PWY	9
+79	anandamide degradation	PWY6666-1	9
+80	oleate &beta;-oxidation	PWY0-1337	9
+81	fatty acid &beta;-oxidation I	FAO-PWY	9
+82	fatty acid &beta;-oxidation II (core pathway)	PWY-5136	9
+83	fatty acid &alpha;-oxidation	PWY-2501	9
+84	UDP-galactose biosynthesis (salvage pathway from galactose using UDP-glucose)	GALACTMETAB-PWY	9
+85	melibiose degradation	PWY0-1301	9
+86	D-mannose degradation	MANNCAT-PWY	9
+87	2-O-&alpha;-mannosyl-D-glycerate degradation	PWY0-1300	9
+88	glucose and glucose-1-phosphate degradation	GLUCOSE1PMETAB-PWY	9
+89	lactose degradation III	BGALACT-PWY	9
+90	xylose degradation I	XYLCAT-PWY	9
+91	sucrose degradation to ethanol and lactate (anaerobic)	PWY-3801	9
+92	trehalose degradation II (trehalase)	PWY0-1182	9
+93	dopamine degradation	PWY6666-2	9
+94	N-acetylglucosamine degradation	GLUAMCAT-PWY	9
+95	allantoin degradation to ureidoglycolate I (urea producing)	PWY-5697	9
+96	allantoin degradation to ureidoglycolate II (ammonia producing)	PWY-5698	9
+97	&beta;-alanine betaine biosynthesis	PWY-4021	9
+98	4-hydroxyproline degradation I	HYDROXYPRODEG-PWY	9
+99	leucine degradation I	LEU-DEG2-PWY	9
+100	valine degradation I	VALDEG-PWY	9
+101	tyrosine degradation I	TYRFUMCAT-PWY	9
+102	L-cysteine degradation II	LCYSDEG-PWY	9
+103	L-cysteine degradation I	CYSTEINE-DEG-PWY	9
+104	proline degradation I	PROUT-PWY	9
+105	proline degradation II	PWY-4561	9
+106	threonine degradation II	THREONINE-DEG2-PWY	9
+107	isoleucine degradation I	ILEUDEG-PWY	9
+108	glutamine degradation I	GLUTAMINDEG-PWY	9
+109	glutamine degradation II	GLUTAMINEFUM-PWY	9
+110	homocysteine degradation	HOMOCYSDEGR-PWY	9
+111	glutamate degradation X	PWY-5766	9
+112	glycine cleavage complex	GLYCLEAV-PWY	9
+113	phenylalanine degradation I	PHENYLALANINE-DEG1-PWY	9
+114	citrulline-nitric oxide cycle	PWY-4983	9
+115	arginine degradation I (arginase pathway)	ARGASEDEG-PWY	9
+116	arginine degradation VI (arginase 2 pathway)	ARG-PRO-PWY	9
+117	arginine degradation X (arginine monooxygenase pathway)	ARGDEG-V-PWY	9
+118	tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	PWY-5651	9
+119	methionine degradation I (to homocysteine)	METHIONINE-DEG1-PWY	9
+120	aspartate degradation II	MALATE-ASPARTATE-SHUTTLE-PWY	9
+121	alanine degradation III	ALANINE-DEG3-PWY	9
+122	asparagine degradation I	ASPARAGINE-DEG1-PWY	9
+123	oxidative ethanol degradation III	PWY66-162	9
+124	oxidative ethanol degradation I	PWY66-21	9
+125	betanidin degradation	PWY-5461	9
+126	sorbitol utilization	PWY-4101	9
+127	heme degradation	PWY-5874	9
+128	formaldehyde oxidation V (tetrahydrofolate pathway)	PWY-1722	9
+129	formaldehyde oxidation II (glutathione-dependent)	PWY-1801	9
+130	methylglyoxal degradation I	PWY-5386	9
+131	glutathione-mediated detoxification	PWY-4061	9
+132	TCA cycle variation III (eukaryotic)	PWY-5690	9
+133	glycerol-3-phosphate shuttle	PWY-6118	9
+134	2-methylbutyrate biosynthesis	PWY-5109	9
+135	pyruvate fermentation to lactate	PWY-5481	9
+136	acetyl-CoA biosynthesis (from citrate)	PWY-5172	9
+137	pentose phosphate pathway (partial)	P21-PWY	9
+138	pentose phosphate pathway (non-oxidative branch)	NONOXIPENT-PWY	9
+139	pentose phosphate pathway (oxidative branch)	OXIDATIVEPENT-PWY	9
+140	glycolysis I	GLYCOLYSIS	9
+141	glycolysis II	PWY-5484	9
+142	glycolysis III (Thermotoga)	ANAGLYCOLYSIS-PWY	9
+143	branched-chain &alpha;-keto acid dehydrogenase complex	PWY-5046	9
+144	2-ketoglutarate dehydrogenase complex	PWY-5084	9
+145	methyl-coenzyme M reduction to methane	METHFORM-PWY	9
+146	aerobic respiration -- electron donors reaction list	AERESPDON-PWY	9
+147	aerobic respiration -- electron donor II	PWY-3781	9
+148	salvage pathways of guanine, xanthine, and their nucleosides	SALVPURINE2-PWY	9
+149	5-aminoimidazole ribonucleotide biosynthesis I	PWY-6121	9
+150	inosine-5'-phosphate biosynthesis II	PWY-6124	9
+151	pyrimidine ribonucleotides interconversion	PWY-5687	9
+152	salvage pathways of pyrimidine deoxyribonucleotides	PWY0-181	9
+153	salvage pathways of pyrimidine ribonucleotides	PWY0-163	9
+154	uridine-5'-phosphate biosynthesis	PWY-5686	9
+155	S-adenosylmethionine biosynthesis	SAM-PWY	9
+156	acyl carrier protein metabolism	PWY-6012	9
+157	heptaprenyl diphosphate biosynthesis	PWY-5807	9
+158	trans,trans-farnesyl diphosphate biosynthesis	PWY-5123	9
+159	geranylgeranyldiphosphate biosynthesis	PWY-5120	9
+160	folate polyglutamylation I	PWY-2161	9
+161	folate transformations	PWY-2201	9
+162	folate polyglutamylation II	PWY-2161B	9
+163	formylTHF biosynthesis I	1CMET2-PWY	9
+164	coenzyme A biosynthesis	COA-PWY	9
+165	tetrahydrobioprein biosynthesis II	PWY-5664	9
+166	tetrahydrobioprein biosynthesis I	PWY-5663	9
+167	heme biosynthesis II	HEME-BIOSYNTHESIS-II	9
+168	lipoate salvage and modification	PWY0-522	9
+169	lipoate biosynthesis and incorporation II	PWY0-1275	9
+170	NAD phosphorylation and dephosphorylation	NADPHOS-DEPHOS-PWY	9
+171	NAD salvage pathway III	PWY3O-4106	9
+172	NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	PWY-5653	9
+173	glutathione biosynthesis	GLUTATHIONESYN-PWY	9
+174	glutathione redox reactions II	GLUT-REDOX-PWY	9
+175	thioredoxin pathway	THIOREDOX-PWY	9
+176	glutathione redox reactions I	PWY-4081	9
+177	tetrapyrrole biosynthesis II	PWY-5189	9
+178	sphingomyelin metabolism	PWY3DJ-11281	9
+179	fatty acid activation	PWY-5143	9
+180	triacylglycerol biosynthesis	TRIGLSYN-PWY	9
+181	acyl-CoA hydrolysis	PWY-5148	9
+182	wax esters biosynthesis II	PWY-5885	9
+183	very long chain fatty acid biosynthesis	PWY-5080	9
+184	fatty acids biosynthesis (yeast)	PWY-5970	9
+185	&gamma;-linolenate biosynthesis II (animals)	PWY-6000	9
+186	oleate biosynthesis II (animals)	PWY-5996	9
+187	CDP-diacylglycerol biosynthesis	PWY-5667	9
+188	phosphatidylcholine biosynthesis	PWY3O-450	9
+189	cardiolipin biosynthesis II	PWY-5269	9
+190	phosphatidyl-ethanolamine biosynthesis	PWY-5669	9
+191	phosphatidylethanolamine biosynthesis II	PWY4FS-6	9
+192	zymosterol biosynthesis	PWY-6074	9
+193	ceramide biosynthesis	PWY3DJ-12	9
+194	choline biosynthesis III	PWY-3561	9
+195	phenylethanol biosynthesis	PWY-5751	9
+196	4-hydroxyphenylpyruvate biosynthesis	PWY-5886	9
+197	4-hydroxybenzoate biosynthesis I (eukaryotes)	PWY-5754	9
+198	L-carnitine biosynthesis	PWY-6100	9
+199	trehalose biosynthesis I	TRESYN-PWY	9
+200	spermine biosynthesis	ARGSPECAT-PWY	9
+201	histamine biosynthesis	PWY-6173	9
+202	UDP-N-acetyl-D-glucosamine biosynthesis II	UDPNACETYLGALSYN-PWY	9
+203	putrescine biosynthesis III	PWY-46	9
+204	spermidine biosynthesis	BSUBPOLYAMSYN-PWY	9
+205	serotonin and melatonin biosynthesis	PWY-6030	9
+206	catecholamine biosynthesis	PWY66-301	9
+207	asparaginyl-tRNAasn biosynthesis via transamidation	PWY490-4	9
+208	glutaminyl-tRNAgln biosynthesis via transamidation	PWY-5921	9
+209	GDP-mannose metabolism	MANGDPMET-PWY	9
+210	GDP-D-rhamnose biosynthesis	GDPRHAMSYN-PWY	9
+211	S-adenosyl-L-methionine cycle	PWY-5041	9
+212	glutamate biosynthesis III	GLUTSYNIII-PWY	9
+213	glutamate biosynthesis II	GLUTAMATE-SYN2-PWY	9
+214	glutamate biosynthesis I	GLUTSYN-PWY	9
+215	proline biosynthesis II	PROLINE-SYN2-PWY	9
+216	proline biosynthesis III	PWY-3341	9
+217	tyrosine biosynthesis IV	PWY-6134	9
+218	serine biosynthesis	SERSYN-PWY	9
+219	glycine biosynthesis I	GLYSYN-PWY	9
+220	glycine biosynthesis IV	GLYSYN-THR-PWY	9
+221	glycine biosynthesis III	GLYSYN-ALA-PWY	9
+222	asparagine biosynthesis III	ASPARAGINESYN-PWY	9
+223	selenocysteine biosynthesis II (archaea and eukaryotes)	PWY-6281	9
+224	cysteine biosynthesis II	CYSTEINE-SYN2-PWY	9
+225	alanine biosynthesis II	ALANINE-SYN2-PWY	9
+226	alanine biosynthesis III	PWY0-1021	9
+227	glutamine biosynthesis I	GLNSYN-PWY	9
+228	aspartate biosynthesis	ASPARTATESYN-PWY	9
+229	isoleucine biosynthesis from threonine	ILEUSYN-PWY	9
+230	arginine biosynthesis IV	ARGININE-SYN4-PWY	9
+231	&beta;-alanine biosynthesis IV	PWY-5155	9
+232	hypusine biosynthesis	PWY-5905	9
+233	betaxanthin biosynthesis (via dopamine)	PWY-5403	9
+234	beta-carboline biosynthesis	PWY-5877	9
+235	mevalonate pathway	PWY-922	9
+236	myo-inositol biosynthesis	PWY-2301	9
+237	dolichyl-diphosphooligosaccharide biosynthesis	MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	9
+238	gluconeogenesis	GLUCONEO-PWY	9
+239	GDP-mannose biosynthesis II	PWY-5659	9
+240	GDP-glucose biosynthesis	PWY-5661	9
+241	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	PWY-66	9
+242	CMP-KDO biosynthesis I	PWY-1269	9
+243	CMP-N-acetylneuraminate biosynthesis I (eukaryotes)	PWY-6138	9
+244	glycogen biosynthesis II (from UDP-D-Glucose)	PWY-5067	9
+245	glutamate dependent acid resistance	PWY0-1305	9
+246	removal of superoxide radicals	DETOX1-PWY	9
+247	Macromolecule Modification	Macromolecule-Modification	9
+248	Metabolic Clusters	Metabolic-Clusters	9
+249	Superpathways	Super-Pathways	9
+250	Transport	Transport-Pathways	9
+251	Degradation/Utilization/Assimilation	Degradation	9
+252	Signal transduction pathways	Signaling-Pathways	9
+253	Generation of Precursor Metabolites and Energy	Energy-Metabolism	9
+254	Biosynthesis	Biosynthesis	9
+255	Activation/Inactivation/Interconversion	Activation-Inactivation-Interconversion	9
+256		Detoxification	9
+257	Protein Modification	Protein-Modification	9
+258	Protein Glycosylation	Protein-Glycosylation	9
+259	Malate-oxaloacetate Shuttle	MALATE-OXALOACETATE-SHUTTLE	9
+260	Inorganic Nutrients Metabolism	Noncarbon-Nutrients	9
+261	Protein Degradation	Protein-Degradation	9
+262	Nucleosides and Nucleotides Degradation	NUCLEO-DEG	9
+263	Polymeric Compounds Degradation	Polymer-Degradation	9
+264	Aromatic Compounds Degradation	AROMATIC-COMPOUNDS-DEGRADATION	9
+265	Hormones Degradation	HORMONE-DEG	9
+266	Carboxylates Degradation	CARBOXYLATES-DEG	9
+267	Fatty Acid and Lipids Degradation	Fatty-Acid-and-Lipid-Degradation	9
+268	Chlorinated Compounds Degradation	CHLORINATED-COMPOUNDS-DEG	9
+269	Carbohydrates Degradation	Carbohydrates-Degradation	9
+270	Amines and Polyamines Degradation	AMINE-DEG	9
+271	Amino Acids Degradation	Amino-Acid-Degradation	9
+272	Alcohols Degradation	Alcohol-Degradation	9
+273	Secondary Metabolites Degradation	SECONDARY-METABOLITE-DEGRADATION	9
+274	Cofactors, Prosthetic Groups, Electron Carriers Degradation	COFACTOR-DEGRADATION	9
+275	C1 Compounds Utilization and Assimilation	C1-COMPOUNDS	9
+276	Aldehyde Degradation	Aldehyde-Degradation	9
+277	Steroids Degradation	Steroids-Degradation	9
+278	Degradation/Utilization/Assimilation - Other	Other-Degradation	9
+279	Phosphorus Compounds Metabolism	Phosphorus-Compounds	9
+280	Nitrogen Compounds Metabolism	NITROGEN-DEG	9
+281	Sulfur Compounds Metabolism	Sulfur-Metabolism	9
+282	Manganese Oxidation	Manganese-Oxidation	9
+283	Iron Metabolism	Iron-Metabolism	9
+284	Selenium Metabolism	Selenium-Metabolism	9
+285		2-Aminoethylphosphonate-Degradation	9
+286	Methylphosphonate Degradation	Methylphosphonate-Degradation	9
+287	PRPP Biosynthesis	PRPP-Biosynthesis	9
+288	Nitrate Reduction	Nitrate-Reduction	9
+289	Ammonia Assimilation	Ammonia-Assimilation	9
+290	Taurine Degradation	Taurine-degradation	9
+291	Denitrification	Denitrification	9
+292	Ammonia Oxidation	Ammonia-oxidation	9
+293	Nitrogen fixation	Nitrogen-Fixation	9
+294	Thiosulfate Disproportionation	Thiosulfate-Disproportionation	9
+295	Sulfide Oxidation	Sulfide-Oxidation	9
+296	Sulfur Disproportionation	Sulfur-Disproportionation	9
+297	Methylthiopropanoate Degradation	Methylthiopropionate-Degradation	9
+298	Sulfur Oxidation	Sulfur-Oxidation	9
+299	Tetrathionate Reduction	Tetrathionate-Reduction	9
+300	Sulfate Reduction	Sulfate-Reduction	9
+301	Hydrogen Sulfide Biosynthesis	Hydrogen-Sulfide-Biosynthesis	9
+302	Sulfite Oxidation	Sulfite-Oxidation	9
+303	Sulfur Reduction	Sulfur-reduction	9
+304	Dimethylsulfide Degradation	Dimethylsulfide-Degradation	9
+305	Dimethylsulfoniopropanoate Degradation	Dimethylsulfoniopropionate-Degradation	9
+306	Sulfolactate Degradation	Sulfolactate-Degradation	9
+307	Sulfoacetaldehyde Degradation	Sulfoacetaldehyde-Degradation	9
+308	Thiosulfate Oxidation	Thiosulfate-Oxidation	9
+309	Seleno-Amino Acid Detoxification	Seleno-Amino-Acid-Detoxification	9
+310	Purine Nucleotides Degradation	Purine-Degradation	9
+311	S-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation	MTR-1P-Degradation	9
+312	Pyrimidine Nucleotides Degradation	Pyrimidine-Degradation	9
+313	S-methyl-5'-thioadenosine Degradation	Methylthioadenosine-Degradation	9
+314	Adenosine Nucleotides Degradation	Adenosine-Nucleotides-Degradation	9
+315	Guanosine Nucleotides Degradation	Guanosine-Nucleotides-Degradation	9
+316	Pyrimidine Ribonucleosides Degradation	Pyrimidine-Ribonucleosides-Degradation	9
+317	Pyrimidine Deoxyribonucleosides Degradation	Pyrimidine-Deoxyribonucleosides-Deg	9
+318	Pyrimidine Nucleobases Degradation	Pyrimidine-Base-Degradation	9
+319	Uracil Degradation	Uracil-Degradation	9
+320	Polysaccharides Degradation	POLYSACCHARIDES-DEG	9
+321	Cellulose Degradation	Cellulose-Degradation	9
+322	Chitin Degradation	Chitin-Degradation	9
+323	Glycosaminoglycan Degradation	Glycosaminoglycan-Degradation	9
+324	Xylan Degradation	Xylan-Degradation	9
+325	Starch Degradation	Starch-Degradation	9
+326	Xyloglucan Degradation	Xyloglucan-Degradation	9
+327	Carrageenan Degradation	Carrageenan-Degradation	9
+328	Pectin Degradation	Pectin-Degradation	9
+329	Glycans Degradation	Glycan-Pathways	9
+330	Rhamnogalacturonan Type I Degradation	Rhamnogalacturonan-Degradation	9
+331	Glycogen Degradation	Glycogen-Degradation	9
+332	s-Triazine Degredation	s-Triazine-Degradation	9
+333	Salicylate Degradation	Salicylate-Degradation	9
+334	Chloroaromatic Compounds Degradation	Chloroaromatic-Compounds-Degradation	9
+335	Benzoyl-CoA Degradation	Benzoyl-CoA-Degradation	9
+336	Nitroaromatic Compounds Degradation	Nitroaromatic-Degradation	9
+337	Phenolic Compounds Degradation	Phenolic-Compounds-Degradation	9
+338	Gentisate Degradation	Gentisate-Degradation	9
+339	Catechol Degradation	Catechol-Degradation	9
+340	Fluorene Degradation	Fluorene-Degradation	9
+341	Protocatechuate Degradation	Protocatechuate-Degradation	9
+342	Quinate Degradation	Quinate-Degradation	9
+343	Shikimate Degradation	Shikimate-Degradation	9
+344	Gallate Degradation	GALLATE-DEG	9
+345	Benzoate Degradation	Benzoate-Degradation	9
+346	Toluenes Degradation	TOLUENE-DEG	9
+347	Sulfoaromatic Compounds Degradation	Sulfoaromatics-Degradation	9
+348	Urate Degradation	Urate-Degradation	9
+349	Xylene Degradation	Xylene-Degradation	9
+350	Vanillin Degradation	Vanillin-Degradation	9
+351	2-Aminobenzoate Degradation	2-Aminobenzoate-Degradation	9
+352	Mandelates Degradation	MANDELATE-DEG	9
+353	Nicotinate Degradation	Nicotinate-Degradation	9
+354	Naphthalene Degradation	Naphthalene-Degradation	9
+355	Atrazine Degradation	Atrazine-Degradation	9
+356	Chlorotoluene Degradation	Chlorotoluene-Degradation	9
+357	Chlorocatechol Degradation	Chlorocatechol-Degradation	9
+358	Chlorobenzoate Degradation	Chlorobenzoate-Degradation	9
+359	Chlorobenzene Degradation	Chlorobenzene-Degradation	9
+360	Dichlorotoluene Degradation	Dichlorotoluene-Degradation	9
+361	3 Chlorotoluene Degradation	3-Chlorotoluene-Degradation	9
+362	3-Chlorocatechol Degradation	3-Chlorocatechol-Degradation	9
+363	3-Chlorobenzoate Degradation	3-Chlorobenzoate-Degradation	9
+364	Nitrobenzoate Degradation	Nitrobenzoate-Degradation	9
+365	Nitrobenzene Degradation	Nitrobenzene-Degradation	9
+366	Nitrophenol Degradation	Nitrophenol-Degradation	9
+367	Nitrotoluene Degradation	Nitro-Toluene-Degradation	9
+368	Dinitrotoluene Degradation	Dinitrotoluene-Degradation	9
+369	2-Nitrobenzoate Degradation	2-Nirobenzoate-Degradation	9
+370	2-Nitrophenol Degradation	o-Nitrophenol-Degradation	9
+371	4-Nitrophenol Degradation	p-Nitrophenol-Degradation	9
+372	4-Nitrotoluene Degradation	4-Nitrotoluene-Degradation	9
+373	Phenol Degradation	Phenol-Degradation	9
+374	Phenylacetate Degradation	Phenylacetate-Degradation	9
+375	Phenylethylamine Degradation	Phenylethylamine-Degradation	9
+376	4-Toluenesulfonate Degradation	4-Toluenesulfonate-Degradation	9
+377	Thyroid Hormone Metabolism	Thyroid-Hormone-Metabolism	9
+378	Plant Hormones Degradation	PLANT-HORMONE-DEG	9
+379	Melatonin Degradation	Melatonin-Degradation	9
+380	Gibberellins Degradation	GIBBERELLINS-DEGRADATION	9
+381	Auxins Degradation	AUXINS-DEGRADATION	9
+382	Abscisic Acid Degradation	Abscisic-Acid-Degradation	9
+383	Cytokinins Degradation	CYTOKININS-DEGRADATION	9
+384	Oxalate Degradation	Oxalate-Degradation	9
+385	Glycolate Degradation	Glycolate-Degradation	9
+386	Propanoate Degradation	Propionate-Degradation	9
+387	L-Ascorbate Degradation	Ascorbate-Degradation	9
+388	Succinate Degradation	SUCC-DEG	9
+389	Sugar Acids Degradation	SUGAR-ACIDS-DEG	9
+390	Acetate Formation	Acetate-Formation	9
+391	2-Oxobutanoate Degradation	2-Oxobutanoate-Degradation	9
+392	Malonate Degradation	Malonate-Degradation	9
+393	2-Methylcitrate Cycle	Methyl-Citrate-Cycle	9
+394	D-Galacturonate Degradation	D-Galacturonate-Degradation	9
+395	D-Glucarate Degradation	D-Glucarate-Degradation	9
+396	D-Glucuronate Degradation	D-Glucuronate-Degradation	9
+397	D-Galactarate Degradation	D-Galactarate-Degradation	9
+398	Acetone Degradation	Acetone-Degradation	9
+399	Fatty Acids Degradation	Fatty-Acid-Degradation	9
+400	2-Chloroacrylate-Degradation	2-Chloroacrylates-Degradation	9
+401	Carbon Tetrachloride Degradation	Carbon-tetrachloride-degradation	9
+402	Sugars Degradation	Sugars-And-Polysaccharides	9
+403	Sugars Degradation	Sugars-And-Polysaccharides-Degradation	9
+404	Lactose Degradation	LACTOSE-DEG	9
+405	L-rhamnose Degradation	L-rhamnose-Degradation	9
+406	L-arabinose Degradation	L-Arabinose-Degradation	9
+407	Xylose Degradation	Xylose-Degradation	9
+408	Entner-Duodoroff Pathways	Entner-Duodoroff-Pathways	9
+409	Sucrose Degradation	SUCROSE-DEG	9
+410	D-arabinose Degradation	D-Arabinose-Degradation	9
+411	Galactose Degradation	GALACTOSE-DEGRADATION	9
+412	Trehalose Degradation	Trehalose-Degradation	9
+413	Spermine and Spermidine Degradation	SPERMINE-SPERMIDINE-DEG	9
+414	Urea Degradation	Urea-Degradation	9
+415	N-acetylglucosamine degradation	N-Acetylglucosamine-Degradation	9
+416	Glycine Betaine Degradation	Glycine-Betaine-Degradation	9
+417	Allantoin Degradation	Allantoin-degradation	9
+418	Putrescine Degradation	Putrescine-Degradation	9
+419	Carnitine Degradation	CARN-DEG	9
+420	Choline Degradation	Choline-Degradation	9
+421	4-Aminobutyrate Degradation	4-Aminobutyraye-Degradation	9
+422	Methylamine Degradation	Methylamine-Degradation	9
+423	Creatinine Degradation	Creatinine-Degradation	9
+424	N-Acetylneuraminate and N-Acetylmannosamine Degradation	NAN-MANNACs-degradation	9
+425	Other Amino Acids Degradation	MISCELLANEOUS-DEG	9
+426	Proteinogenic Amino Acids Degradation	Proteinogenic-Amino-Acids-Degradation	9
+427	hydroxy-L-proline Degradation	Hydroxyprolines-Degradation	9
+428	L-homoserine Degradation	HOMOSERINE-DEG	9
+429	&beta;-Alanine Degradation	Beta-Alanine-Degradation	9
+430	D-Amino Acids Degradation	D-Amino-Acid-Degradation	9
+431	L-leucine Degradation	LEUCINE-DEG	9
+432	L-lysine Degradation	LYSINE-DEG	9
+433	L-valine Degradation	VALINE-DEG	9
+434	L-tyrosine Degradation	TYROSINE-DEG	9
+435	L-cysteine Degradation	CYSTEINE-DEG	9
+436	Inferred from experiment	PROLINE-DEG	9
+437	L-threonine Degradation	THREONINE-DEG	9
+438	L-isoleucine Degradation	ISOLEUCINE-DEG	9
+439	L-glutamine Degradation	GLUTAMINE-DEG	9
+440	L-homocysteine Degradation	HOMOCYSTEINE-DEG	9
+441	L-serine Degradation	SERINE-DEG	9
+442	L-glutamate Degradation	GLUTAMATE-DEG	9
+443	Glycine Degradation	GLYCINE-DEG	9
+444	L-phenylalanine Degradation	PHENYLALANINE-DEG	9
+445	L-arginine Degradation	ARGININE-DEG	9
+446	L-histidine Degradation	HISTIDINE-DEG	9
+447	L-tryptophan Degradation	TRYPTOPHAN-DEG	9
+448	L-methionine Degradation	METHIONINE-DEG	9
+449	L-aspartate Degradation	ASPARTATE-DEG	9
+450	L-alanine Degradation	ALANINE-DEG	9
+451	L-asparagine Degradation	ASPARAGINE-DEG	9
+452	2,3-Butanediol Degradation	2-3-Butanediol-Degradation	9
+453	Glycerol Degradation	GLYCEROL-DEG	9
+454	Ethanol Degradation	Ethanol-Degradation	9
+455	Phytoalexins Degradation	PHYTOALEXIN-DEG	9
+456	Xanthones Degradation	XANTHONE-DEG	9
+457	Terpenoids Degradation	TERPENOID-DEG	9
+458	Polyketides Degradation	POLYKETIDE-DEG	9
+459	Phenylpropanoid Derivatives Degradation	PHENYLPROPANOID-DERIVATIVE-DEG	9
+460	Fatty Acid Derivatives Degradation	FATTY-ACID-DERIVATIVE-DEG	9
+461	Nitrogen Containing Secondary Compounds Degradation	N-CONTAINING-SECONDARY-CMPD-DEG	9
+462	Sugar Derivatives Degradation	Sugar-Derivatives	9
+463	Flavonoids Degradation	FLAVONOID-DEG	9
+464	Sesquiterpenoids Degradation	Sesquiterpenoid-Degradation	9
+465	Carveol Degradation	Carveol-Degradation	9
+466	Hemiterpenes Degradation	ISOPRENOIDS-DEG	9
+467	Tetraterpenoids Degradation	Tetraterpenoid-Degradation	9
+468	Limonene Degradation	Limonene-Degradation	9
+469	Ginsenosides Degradation	Ginsenoside-Degradation	9
+470	Camphor Degradation	Camphor-Degradation	9
+471	Carotenoids Degradation	Carotenoid-Degradation	9
+472	Nitrogen Containing Glucosides Degradation	N-CONTAINING-GLUCOSIDE-DEG	9
+473	Alkaloids Degradation	ALKALOIDS	9
+474	Cyanogenic Glucosides Degradation	CYANOGENIC-GLUCOSIDE-DEG	9
+475	Glucosinolates Degradation	GLUCOSINOLATE-DEG	9
+476	Caffeine Degradation	CAFFEINE	9
+477	Sugar Alcohols Degradation	SUGAR-ALCOHOLS-DEG	9
+478	Cyclitols Degradation	CYCLITOLS-DEG	9
+479	Phytate Degradation	Phytate-Degradation	9
+480	Heme Compounds Degradation	Heme-Degradation	9
+481	Chlorophyll a Degradation	Chlorophyll-A-Degradation	9
+482	CO2 Fixation	CO2-Fixation	9
+483	Formaldehyde Assimilation	Formaldehyde-Assimilation	9
+484	Methanol Oxidation	Methanol-Oxidation	9
+485	Formaldehyde Oxidation	Formaldehyde-Oxidation	9
+486	methane oxidation to methanol	Methane-Oxidation	9
+487	Autotrophic CO2 Fixation	Autotrophic-CO2-Fixation	9
+488	Reductive TCA Cycles	Reductive-TCA-Cycles	9
+489	Lactaldehyde Degradation	Lactaldehyde-Degradation	9
+490	Cholesterol Degradation	Cholesterol-Degradation	9
+491	Acrylonitrile Degradation	Acrylonitrile-Degradation	9
+492	Nicotine Degradation	Nicotine-Degradation	9
+493	Carbon Disulfide Degradation	Carbon-disulfide-degradation	9
+494	Thiocyanate Degradation	Thiocyanate-Degradation	9
+495	Chemoautotrophic Energy Metabolism	CHEMOAUTOTROPHIC-ENERGY-METABOLISM	9
+496	TCA cycle	TCA-VARIANTS	9
+497		Photosynthesis	9
+498	Other	OTHER-ENERGY	9
+499	Hydrogen Production	Hydrogen-Production	9
+500		Fermentation	9
+501	Acetyl-CoA Biosynthesis	Acetyl-CoA-Biosynthesis	9
+502	Pentose Phosphate Pathways	Pentose-Phosphate-Cycle	9
+503	Glycolysis	GLYCOLYSIS-VARIANTS	9
+504		Respiration	9
+505	Electron Transfer	Electron-Transfer	9
+506	Hydrogen Oxidation	Hydrogen-Oxidation	9
+507	Pyruvate Fermentation	Pyruvate-Degradation	9
+508	Butanediol Biosynthesis	Butanediol-Biosynthesis	9
+509	Acetoin Biosynthesis	Acetoin-Biosynthesis	9
+510	Acetyl-CoA Fermentation to Butyrate	Acetyl-CoA-Butyrate	9
+511	Anaerobic Respiration	ANAEROBIC-RESPIRATION	9
+512	Aerobic Respiration	AEROBIC-RESPIRATION	9
+513	Methanogenesis	METHANOGENESIS	9
+514	Tetrathionate Oxidation	Tetrathionate-Oxidation	9
+515	Nucleosides and Nucleotides Biosynthesis	Nucleotide-Biosynthesis	9
+516	Cofactors, Prosthetic Groups, Electron Carriers Biosynthesis	Cofactor-Biosynthesis	9
+517	Fatty Acid and Lipid Biosynthesis	Lipid-Biosynthesis	9
+518	Aromatic Compounds Biosynthesis	AROMATIC-COMPOUNDS-BIOSYN	9
+519	Metabolic Regulators Biosynthesis	Metabolic-Regulators	9
+520	Amines and Polyamines Biosynthesis	Polyamine-Biosynthesis	9
+521	Hormones Biosynthesis	HORMONE-SYN	9
+522	Aminoacyl-tRNA Charging	Aminoacyl-tRNAs-Charging	9
+523	Other Biosynthesis	Other-biosynthesis	9
+524	Siderophore Biosynthesis	Siderophores-Biosynthesis	9
+525	Cell Structures Biosynthesis	Cell-Structure-Biosynthesis	9
+526	Amino Acids Biosynthesis	Amino-Acid-Biosynthesis	9
+527	Secondary Metabolites Biosynthesis	SECONDARY-METABOLITE-BIOSYNTHESIS	9
+528	Carbohydrates Biosynthesis	Carbohydrates-Biosynthesis	9
+529	Storage Compounds Biosynthesis	Storage-Compounds-Biosynthesis	9
+530	Purine Nucleotide Biosynthesis	PUR-NUC-SYN	9
+531	Nucleic Acid Processing	Nucleic-Acid-Processing	9
+532	2'-Deoxyribonucleotides Biosynthesis	Deoxyribonucleotide-Biosynthesis	9
+533	Pyrimidine Nucleotide Biosynthesis	PYR-NUC-SYN	9
+534	Purine Nucleotide Salvage	Purine-Nucleotides-Salvage	9
+535	5-Aminoimidazole Ribonucleotide Biosynthesis	AIR-Biosynthesis	9
+536	Purine Nucleotides De Novo Biosynthesis	Purine-Nucleotide-De-Novo-Biosynthesis	9
+537	Adenine and Adenosine Salvage	Adenine-Adenosine-Salvage	9
+538	Guanine and Guanosine Salvage	Guanine-Guanosine-Salvage	9
+539	Purine Riboucleotides De Novo Biosynthesis	Purine-Ribonuc-De-Novo-Biosynthesis	9
+540	Purine Deoxyribonucleotides De Novo Biosynthesis	Purine-Deoxyribonuc-De-Novo-Biosynthesis	9
+541	Inosine-5'-phosphate Biosynthesis	IMP-Biosynthesis	9
+542	Guanosine Deoxyribonucleotides De Novo Biosynthesis	Guanosine-Deoxy-Denovo-Biosynthesis	9
+543	Adenosine Deoxyribonucleotides De Novo Biosynthesis	Adenosine-Deoxy-Denovo-Bbiosynthesis	9
+544	Pyrimidine Deoxyribonucleotides De Novo Biosynthesis	Pyrimid-Deoxyribonucleot-De-Novo-Biosyn	9
+545	Pyrimidine Nucleotides Salvage	Pyrimidine-Nucleotide-Salvage	9
+546	Pyrimidine Nucleotides De Novo Biosynthesis	Pyrimidine-De-Novo-Biosyn	9
+547	Pyrimidine Ribonucleotides De Novo Biosynthesis	Pyrimid-Ribonucleot-De-Novo-Biosyn	9
+548	cob(II)yrinate a,c-diamide biosynthesis	Cobyrinate-diamide-Biosynthesis	9
+549	Polyprenyl Biosynthesis	Polyprenyl-Biosynthesis	9
+550	Vitamins Biosynthesis	Vitamin-Biosynthesis	9
+551	Coenzyme A Biosynthesis	CoA-Biosynthesis	9
+552	Tetrahydrobiopterin Biosynthesis	Tetrahydrobiopterin-Biosynthesis	9
+553	Porphyrin Compounds Biosynthesis	Porphyrin-Compounds-Biosynthesis	9
+554	Quinol and Quinone Biosynthesis	Quinone-Biosynthesis	9
+555	Molybdenum Cofactor Biosynthesis	Molybdenum-Cofactor-Biosynthesis	9
+556	Lipoate Biosynthesis	Lipoate-Biosynthesis	9
+557	Coenzyme M Biosynthesis	Coenzyme-M-Biosynthesis	9
+558	NAD Metabolism	NAD-Metabolism	9
+559	Reductants Biosynthesis	Reductants	9
+560	Tetrapyrrole Biosynthesis	Tetrapyrrole-Biosynthesis	9
+561		All-Trans-Farnesyl-PP-Biosynthesis	9
+562	Geranylgeranyl Diphosphate Biosynthesis	GGPP-Biosynthesis	9
+563	Thiamin Biosynthesis	Thiamine-Biosynthesis	9
+564	Cobalamin Biosynthesis	Cobalamin-Biosynthesis	9
+565	Vitamin B6 Biosynthesis	Vitamin-B6-Biosynthesis	9
+566	Folate Biosynthesis	Folate-Biosynthesis	9
+567	Flavin Biosynthesis	Flavin-Biosynthesis	9
+568	Biotin Biosynthesis	BIOTIN-SYN	9
+569	Pantothenate Biosynthesis	Pantothenate-Biosynthesis	9
+570	Ascorbate Biosynthesis	Ascorbate-Biosynthesis	9
+571	Vitamin A Biosynthesis	Vitamin-A-Biosynthesis	9
+572	Thiamin Salvage	Thiamin-Salvage	9
+573	aminopropanol phosphate biosynthesis	Aminopropanol-Phosphate-Biosynthesis	9
+574	Adenosylcobalamin Biosynthesis	Adenosylcobalamin-Biosynthesis	9
+575	6-Hydroxymethyl-Dihydropterin Diphosphate Biosynthesis	6-HM-Dihydropterin-PP-Biosynthesis	9
+576	7-Keto,8-aminopelargonate Biosynthesis	7-Keto-8-aminopelargonate-Biosynthesis	9
+577	Visual Cycles	Visual-Cycle	9
+578	Chlorophyll Biosynthesis	Chlorophyll-Biosynthesis	9
+579	Heme Biosynthesis	HEME-SYN	9
+580	Chlorophyll a Biosynthesis	Chlorophyll-a-Biosynthesis	9
+581	Chlorophyllide a Biosynthesis	Chlorophyllide-a-Biosynthesis	9
+582	1,4-Dihydroxy-2-Naphthoate Biosynthesis	DHNA-Biosynthesis	9
+583	Phylloquinol Biosynthesis	Phylloquinone-Biosynthesis	9
+584	Demethylmenaquinol Biosynthesis	Demethylmenaquinone-Biosynthesis	9
+585	1,4-dihydroxy-6-naphthoate biosynthesis	14-Dihydroxy-6-Naphthoate-Biosynthesis	9
+586	Plastoquinol Biosynthesis	Plastoquinone-Biosynthesis	9
+587	Rhodoquinone Biosynthesis	Rhodoquinone-Biosynthesis	9
+588	Ubiquinol Biosynthesis	Ubiquinone-Biosynthesis	9
+589	Menaquinol Biosynthesis	Menaquinone-Biosynthesis	9
+590	Demethylmenaquinol-6 Biosynthesis	Demethylmenaquinol-6-Biosynthesis	9
+591	Demethylmenaquinol-8 Biosynthesis	Demethylmenaquinol-8-Biosynthesis	9
+592	NAD Biosynthesis	NAD-SYN	9
+593	Fatty Acid Biosynthesis	Fatty-acid-biosynthesis	9
+594	Kdo Transfer to Lipid IVA	KDO-Lipid-IV-Transfer	9
+595	Phospholipid Biosynthesis	Phospholipid-Biosynthesis	9
+596	Sterol Biosynthesis	Sterol-Biosynthesis	9
+597	Sphingolipid Biosynthesis	Sphingolipid-Biosynthesis	9
+598	Choline Biosynthesis	Choline-Biosynthesis	9
+599	Palmitate Biosynthesis	Palmitate-Biosynthesis	9
+600	Cyclopropane Fatty Acids Biosynthesis	Cyclopropane-fatty-acid-biosyn	9
+601	Stearate Biosynthesis	Stearate-Biosynthesis	9
+602	Epoxylated Fatty Acids Biosynthesis	Epoxy-Fatty-Acids-Biosynthesis	9
+603	Unsaturated Fatty Acid Biosynthesis	Unsaturated-Fatty-Acids-Biosynthesis	9
+604	Hydroxylated Fatty Acids Biosynthesis	Hydroxy-Fatty-Acids-Biosynthesis	9
+605	Vernolate Biosynthesis	Vernolate-Biosynthesis	9
+606	&gamma;-Linolenate Biosynthesis	Gamma-linolenate-Biosynthesis	9
+607	Oleate Biosynthesis	Oleate-Biosynthesis	9
+608	Linoleate Biosynthesis	Linoleate-Biosynthesis	9
+609	Palmitoleate Biosynthesis	Palmitoleate-Biosynthesis	9
+610	Polyunsaturated Fatty Acid Biosynthesis	PUFA-Biosynthesis	9
+611	Fatty Acids Containing acetylenic bond Biosynthesis	Acetlyylenic-Fatty-Acid-Biosynthesis	9
+612	&alpha;-Linolenate Biosynthesis	Alpha-Linolenate-Biosynthesis	9
+613	Icosapentaenoate Biosynthesis	Eicosapentaenoate-Biosynthesis	9
+614	Conjugated Fatty Acid Biosynthesis	Conjugated-Fatty-Acid-Biosynthesis	9
+615	Docosahexaenoate Biosynthesis	Docosahexaenoate-Biosynthesis	9
+616	Arachidonate Biosynthesis	Arachidonate-Biosynthesis	9
+617	CDP-diacylglycerol Biosynthesis	CDP-diacylglycerol-Biosynthesis	9
+618	Phosphatidylglycerol Biosynthesis	PhosphatidylglycerolBiosynthesis	9
+619	Phosphatidylcholine Biosynthesis	PhosphatidylcholineBiosynthesis	9
+620	Cardiolipin Biosynthesis	Cardiolipin-Biosynthesis	9
+621	Phosphatidylethanolamine Biosynthesis	PhosphatidylethanolamineBiosynthesis	9
+622	Phosphatidylinositol Biosynthesis	Phosphatidylinositol-Biosynthesis	9
+623	Ergosterol Biosynthesis	Ergosterol-Biosynthesis	9
+624	Chorismate Biosynthesis	Chorismate-Biosynthesis	9
+625	3-Dehydroquinate Biosynthesis	3-Dehydroquinate-Biosynthesis	9
+626	4-Hydroxybenzoate Biosynthesis	4-Hydroxybenzoate-Biosynthesis	9
+627	Dipeptide Biosynthesis	Dipeptide-Biosynthesis	9
+628	Nitric Oxide Biosynthesis	Nitric-Oxide-Biosynthesis	9
+629	Organic Solutes Biosynthesis	Organic-solutes-Biosynthesis	9
+630	Mannosylglucosylglycerate Biosynthesis	Mannosylglucosylglycerate-Biosynthesis	9
+631	Mannosylglycerate Biosynthesis	Mannosylglycerate-Biosynthesis	9
+632	Trehalose Biosynthesis	Trehalose-biosynthesis	9
+633	Dimethylsulfoniopropanoate Biosynthesis	Dimethylsulfoniopropionate-Biosynthesis	9
+634	Glucosylglycerate Biosynthesis	Glucosylglycerate-Biosynthesis	9
+635	Betaine Biosynthesis	Betaine-Biosynthesis	9
+636	UDP-N-acetyl-D-glucosamine Biosynthesis	UDP-NAc-Glucosamine-Biosynthesis	9
+637	Putrescine Biosynthesis	Putrescine-Biosynthesis	9
+638	Spermidine Biosynthesis	Spermidine-Biosynthesis	9
+639	UDP-N-acetyl-D-galactosamine Biosynthesis	UDP-Nac-Galactosamine-Biosynthesis	9
+640	Plant Hormones Biosynthesis	Plant-Hormone-Biosynthesis	9
+641	Abscisic Acid Biosynthesis	Abscisic-Acid-Biosynthesis	9
+642	Jasmonates Biosynthesis	Jasmonates-Biosynthesis	9
+643	Gibberellins and Gibberellin Precursors Biosynthesis	GIBBERELLIN-SYN	9
+644	Auxins Biosynthesis	Auxin-Biosynthesis	9
+645	Ethylene Biosynthesis	Ethylene-Biosynthesis	9
+646	Brassinosteroids Biosynthesis	Brassinosteroid-Biosynthesis	9
+647	Cytokinins Biosynthesis	CYTOKININ-BIOSYNTHESIS	9
+648	Abscisic acid derivative Biosynthesis	Abscisic-Acid-Derivative-Biosynthesis	9
+649	Gibberellins biosynthesis	GIBBERELLINS-BIOSYNTHESIS	9
+650	Lipopolysaccharide Biosynthesis	Lipopolysaccharide-Biosynthesis	9
+651	Plant Cell Structures	PLANT-CELL-STRUCTURE	9
+652	Cell Wall Biosynthesis	Cell-Wall-Biosynthesis	9
+653	O-Antigen Biosynthesis	O-Antigen-Biosynthesis	9
+654	Epidermal Structures	EPIDERMAL-STRUCTURE	9
+655	Primary Cell Wall	PRIMARY-CELL-WALL	9
+656	Secondary Cell Wall	SECONDARY-CELL-WALL	9
+657	Peptidoglycan Biosynthesis	Peptidoglycan-Biosynthesis	9
+658	Peptidoglycan Cross-Bridge Biosynthesis	Peptidoglycan-Cross-Bridge-Biosynthesis	9
+659	UDP-N-Acetylmuramoyl-Pentapeptide Biosynthesis	Acetylmuramoyl-Pentapeptide-Biosynthesis	9
+660	Proteinogenic Amino Acids Biosynthesis	IND-AMINO-ACID-SYN	9
+661	Other Amino Acid Biosynthesis	Other-Amino-Acid-Biosynthesis	9
+662	Modification of Amino Acids Within Proteins	Amino-Acids-Modification	9
+663	L-methionine Biosynthesis	METHIONINE-SYN	9
+664	L-glutamate Biosynthesis	GLUTAMATE-SYN	9
+665	L-pyrrolysine Biosynthesis	Pyrrolysine-Biosynthesis	9
+666	L-proline Biosynthesis	PROLINE-SYN	9
+667	L-tyrosine Biosynthesis	TYROSINE-SYN	9
+668	L-serine Biosynthesis	SERINE-BIOSYNTHESIS	9
+669	L-leucine Biosynthesis	LEUCINE-SYN	9
+670	L-phenylalanine Biosynthesis	PHENYLALANINE-SYN	9
+671	L-valine Biosynthesis	VALINE-BIOSYNTHESIS	9
+672	L-threonine Biosynthesis	THREONINE-BIOSYNTHESIS	9
+673	L-typtophan Biosynthesis	TRYPTOPHAN-BIOSYNTHESIS	9
+674	Glycine Biosynthesis	GLYCINE-SYN	9
+675	L-arginine Biosynthesis	ARGININE-SYN	9
+676	L-lysine Biosynthesis	LYSINE-SYN	9
+677	L-asparagine Biosynthesis	ASPARAGINE-SYN	9
+678	L-selenocysteine Biosynthesis	Selenocysteine-Biosynthesis	9
+679	L-cysteine Biosynthesis	CYSTEINE-SYN	9
+680	L-histidine Biosynthesis	HISTIDINE-SYN	9
+681	L-alanine Biosynthesis	ALANINE-SYN	9
+682	L-glutamine Biosynthesis	GLUTAMINE-SYN	9
+683	L-aspartate Biosynthesis	ASPARTATE-SYN	9
+684	L-isoleucine Biosynthesis	ISOLEUCINE-SYN	9
+685	L-methionine Salvage	Methionine-Salvage	9
+686	L-methionine De Novo Biosynthesis	Methionine-De-novo-Biosynthesis	9
+687	S-adenosyl-L-methionine cycle	S-adenosyl-L-methionine-cycle	9
+688	L-citrulline Biosynthesis	Citrulline-Biosynthesis	9
+689	&beta; Alanine Biosynthesis	Beta-Alanine-Biosynthesis	9
+690	Phytoalexins Biosynthesis	PHYTOALEXIN-SYN	9
+691	Terpenophenolics Biosynthesis	TERPENOPHENOLICS-SYN	9
+692	Ergothioneine Biosynthesis	Ergothioneine-Biosynthesis	9
+693	Insecticides Biosynthesis	Insecticides-Biosynthesis	9
+694	Alcohols Biosynthesis	Alcohol-Biosynthesis	9
+695	Fatty Acid Derivatives Biosynthesis	FATTY-ACID-DERIVATIVE-SYN	9
+696	Autoinducer Biosynthesis	Autoinducer-Biosynthesis	9
+697	Nitrogen-Containing Secondary Compounds Biosynthesis	N-CONTAINING-SECONDARY-CMPD-SYN	9
+698	Polyketides Biosynthesis	POLYKETIDE-SYN	9
+699	Phenylpropanoid Derivatives Biosynthesis	PHENYLPROPANOID-SYN	9
+700	Terpenoids Biosynthesis	Terpenoid-Biosynthesis	9
+701	Antibiotic Biosynthesis	Antibiotic-Biosynthesis	9
+702	Xanthones Biosynthesis	XANTHONE-SYN	9
+703	Sugar Derivatives Biosynthesis	SUGAR-DERIVS	9
+704	Sulfur-Containing Secondary Compounds Biosynthesis	S-CONTAINING-SECONDARY-CMPD-SYN	9
+705	Terpenoid Phytoalexins Biosynthesis	TERPENOID-PHYTOALEXINS	9
+706	Coumarin Phytoalexins Biosynthesis	COUMARIN-PHYTOALEXINS	9
+707	Isoflavonoid Phytoalexins Biosynthesis	ISOFLAVONOID-PHYTOALEXINS	9
+708	Stilbene Phytoalexins Biosynthesis	STILBENE-PHYTOALEXINS	9
+709	Indole Phytoalexins Biosynthesis	INDOLE-PHYTOALEXIN-SYN	9
+710	Flavonoid Phytoalexins Biosynthesis	FLAVONOID-PHYTOALEXINS	9
+711	Divinyl Ether Biosynthesis	Divinyl-Ether-Biosynthesis	9
+712	Nitrogen-Containing Glucosides Biosynthesis	N-CONTAINING-GLUCOSIDE-SYN	9
+713	Amines Biosynthesis	AMINE-SYN	9
+714	Alkaloids Biosynthesis	ALKALOIDS-SYN	9
+715	Non protein Amino Acids Biosynthesis	NON-PROTEIN-AMINO-ACID-SYN	9
+716	Cyanogenic Glucosides Biosynthesis	CYANOGENIC-GLUCOSIDE-SYN	9
+717	Glucosinolates Biosynthesis	GLUCOSINOLATE-SYN	9
+718	Pyrrolidine, Piperidine and Pyridine Alkaloids Biosynthesis	PYRROLIDINE-ALKALOIDS	9
+719	Betalaine Alkaloids Biosynthesis	BETALAIN-ALKALOIDS	9
+720	Tropane Alkaloids Biosynthesis	TROPANE-ALKALOIDS	9
+721	Isoquinoline and Benzylisoquinoline Alkaloids Biosynthesis	ISOQUINOLINE-ALKALOIDS	9
+722	Pyrrolizidine Alkaloids Biosynthesis	PYRROLIZIDINE-ALKALOIDS	9
+723	Indole Alkaloids Biosynthesis	INDOLE-ALKALOIDS	9
+724	Terpenoid Alkaloids Biosynthesis	TERPENOID-ALKALOIDS	9
+725	Polyketide Alkaloids Biosynthesis	POLYKETIDE-ALKALOIDS	9
+726	Quinolizidine Alkaloids Biosynthesis	QUINOLIZIDINE-ALKALOIDS	9
+727	Purine Alkaloids Biosynthesis	PURINE-ALKALOIDS	9
+728	Peptide Alkaloids Biosynthesis	PEPTIDE-ALKALOIDS	9
+729	Quinoline Alkaloids Biosynthesis	QUINOLINE-ALKALOIDS	9
+730	(S)-reticuline biosynthesis	S-Reticuline-Biosynthesis	9
+731	Caffeine Biosynthesis	Caffeine-Biosynthesis	9
+732	Flavonoids Biosynthesis	FLAVONOID-SYN	9
+733	Vanillin Biosynthesis	Vanillin-Biosynthesis	9
+734	Lignans Biosynthesis	LIGNAN-SYN	9
+735	Lignins Biosynthesis	LIGNIN-SYN	9
+736	Stilbenes Biosynthesis	STILBENE-SYN	9
+737	Coumarins Biosynthesis	COUMARIN-SYN	9
+738	Hydrolyzable Tannins Biosynthesis	TANNIN-SYN	9
+739	Benzenoids Biosynthesis	BENZENOID-SYN	9
+740	Quinone Secondary Metabolites Biosynthesis	QUINONE-SYN	9
+741	Cinnamates Biosynthesis	CINNAMATE-SYN	9
+742	Norlignans Biosynthesis	NORLIGNANS	9
+743	Aurones Biosynthesis	AURONE-SYN	9
+744	Phlobaphenes Biosynthesis	PHLOBAPHENE-SYN	9
+745	Flavanones Biosynthesis	FLAVANONES-SYN	9
+746	Chalcones Biosynthesis	CHALCONE-SYN	9
+747	Flavones Biosynthesis	FLAVONE-SYN	9
+748	Anthocyanins Biosynthesis	ANTHOCYANIN-SYN	9
+749	Proanthocyanidins Biosynthesis	PROANTHOCYANIDIN-SYN	9
+750	Flavonols Biosynthesis	FLAVONOL-SYN	9
+751	Prenylflavonoids Biosynthesis	PRENYLFLAVONOID-SYN	9
+752	Leucoanthocyanidins (flavan-3,4-diols) Biosynthesis	LEUCOANTHOCYANIDIN-SYN	9
+753	Isoflavonoids Biosynthesis	ISOFLAVONOID-SYN	9
+754	Rotenoids Biosynthesis	Rotenoids-Biosynthesis	9
+755	Gallotannins Biosynthesis	GALLOTANNINS	9
+756	Ellagitannins Biosynthesis	ELLAGITANNINS	9
+757	Benzoate Biosynthesis	Benzoate-Biosynthesis	9
+758	Volatile Benzenoids Biosynthesis	Volatile-Benzenoids-Biosynthesis	9
+759	Salicylate Biosynthesis	Salicylate-Biosynthesis	9
+760	Polyterpenoids Biosynthesis	POLYTERPENOID-SYN	9
+761	Sesquiterpenoids Biosynthesis	SESQUITERPENOID-SYN	9
+762	Diterpenoids Biosynthesis	DITERPENOID-SYN	9
+763	Monoterpenoids Biosynthesis	MONOTERPENOID-SYN	9
+764	Hemiterpenes Biosynthesis	ISOPRENOIDS	9
+765	Tetraterpenoids Biosynthesis	TETRATERPENOID-SYN	9
+766	Triterpenoids Biosynthesis	TRITERPENOID-SYN	9
+767	Linalool Biosynthesis	Linalool-Biosynthesis	9
+768	Carotenoids Biosynthesis	CAROTENOID-SYN	9
+769	Sesquiterpene Lactone Biosynthesis	SESQUITERPENE-LACTONE	9
+770	Bergamotene Biosynthesis	Bergamotene-Biosynthesis	9
+771	juvenile hormone III biosynthesis	JH-III-Biosynthesis	9
+772	Phytyl Diphosphate Biosynthesis	Phytyl-Diphosphate-Biosynthesis	9
+773	Resin Acids Biosynthesis	Resin-Acids-Biosynthesis	9
+774	Camphor Biosynthesis	Camphor-Biosynthesis	9
+775	Isopentenyl Diphosphate Biosynthesis	Isopentenyl-Diphosphate-Biosynthesis	9
+776	Apocarotenoids Biosynthesis	APOCAROTENOID-SYN	9
+777	Lycopene biosynthesis	Lycopene-Biosynthesis	9
+778	Aurachin Biosynthesis	Aurachin-Biosynthesis	9
+779	Macrolide Antibiotics Biosynthesis	Macrolides-Biosynthesis	9
+780	Paromamine Biosynthesis	Paromamine-Biosynthesis	9
+781	Cyclitols Biosynthesis	Cyclitols-Biosynthesis	9
+782	Kanosamine Biosynthesis	Kanosamine-Biosynthesis	9
+783	myo-Inositol Biosynthesis	Myo-Inositol-Biosynthesis	9
+784	Phytate Biosynthesis	Phytate-Biosynthesis	9
+785	Oligosaccharides Biosynthesis	Oligosaccharides-Biosynthesis	9
+786	Olefins Biosynthesis	Olefins-Biosynthesis	9
+787	Sugars Biosynthesis	CARBO-BIOSYNTHESIS	9
+788	Polysaccharides Biosynthesis	Polysaccharides-Biosynthesis	9
+789	Alkanes Biosynthesis	Alkanes-Biosynthesis	9
+790	Alkenes Biosynthesis	Alkenes-Biosynthesis	9
+791	Gluconeogenesis	Gluconeogenesis	9
+792	Sugar Nucleotides Biosynthesis	SUGAR-NUCLEOTIDES	9
+793	Sucrose Biosynthesis	Sucrose-Biosynthesis	9
+794	Sugar Alcohols Biosynthesis	Sugar-Alcohols-Biosynthesis	9
+795	dTDP-sugar Biosynthesis	dTDP-Sugar-Biosynthesis	9
+796	UDP-sugar Biosynthesis	UDP-Sugar-Biosynthesis	9
+797	GDP-sugar Biosynthesis	GDP-Sugar-Biosynthesis	9
+798	CMP-sugar Biosynthesis	CMP-Sugar-Biosynthesis	9
+799	CDP-sugar Biosynthesis	CDP-Sugar-Biosynthesis	9
+800	ADP-sugar Biosynthesis	ADP-Sugar-Biosynthesis	9
+801		dTDP-L-Rhamnose-Biosynthesis	9
+802	Sialic Acids Biosynthesis	Sialic-Acids-Biosynthesis	9
+803	CMP-N-Acetylneuraminate Biosynthesis	CMP-N-Acetylneuraminate-Biosynthesis	9
+804	CMP-legionaminate biosynthesis	CMP-Legionaminate-Biosynthesis	9
+805	Sorbitol Biosynthesis	Sorbitol-Biosynthesis	9
+806	Pinitol Biosynthesis	Pinitol-Biosynthesis	9
+807	Alginate Biosynthesis	Alginate-Biosynthesis	9
+808	CMP-3-deoxy-D-manno-octulosonate Biosynthesis	CMP-KDO-Biosynthesis	9
+809	Glucogen and Starch Biosynthesis	GLYCOGEN-BIOSYN	9
+810	Glycosaminoglycans Biosynthesis	Glycosaminoglycans-Biosynthesis	9
+811	Inactivation	Inactivation	9
+812	Interconversions	Interconversion	9
+813	Activation	Activation	9
+814	Mercury Detoxification	Mercury-Detoxification	9
+815	Acid Resistance	Acid-Resistance	9
+816	Reactive Oxygen Species Degradation	REACTIVE-OXYGEN-SPECIES-DEGRADATION	9
+817	Antibiotic Resistance	Antibiotic-Resistance	9
+818	Cyanide Detoxification	Cyanide-Detoxification	9
+819	Methylglyoxal Detoxification	Methylglyoxal-Detoxification	9
+820	Arsenate Detoxification	Arsenate-Detoxification	9
+821	Vancomycin Resistance	Vancomycin-Resistnace	9

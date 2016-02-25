@@ -1,0 +1,536 @@
+1,malate dehydrogenase,fruit fly <Drosophila melanogaster>|Drosophila melangaster|fruit fly|Mdh|CG5889
+29,DNA binding//transcription factor activity//zinc ion binding,Pho
+42,transferase activity,tRNA nucleotidyltransferase|DNA polymerase sigma|tRNA nucleotidyltransferase|DNA polymerase sigma|tRNA nucleotidyltransferase|DNA polymerase sigma
+47,protein tyrosine phosphatase activity,Pez
+68,ORF,Dmt
+106,ORF,Feo
+217,signal transducer activity//protein binding,Lnk
+241,microtubule binding,Tau
+420,protein serine/threonine kinase activity,Mos
+558,ORF,Jeb
+628,transcription factor activity,Max
+710,zinc ion binding//nucleic acid binding,Gag
+726,sulfotransferase activity,chondroitin 4-sulfotransferase|chondroitin 6-sulfotransferase|chondroitin 4-sulfotransferase|chondroitin 6-sulfotransferase
+734,ORF,Squ
+760,ORF,Krz
+780,DNA binding//transcription coactivator activity,Osa
+804,SpdS,CG8327
+822,GDP-fucose transmembrane transporter activity,Gfr
+841,ORF,Tun
+850,DNA binding,Emu
+858,DNA binding,Cag
+895,ORF,Nrm
+908,RNA-directed DNA polymerase activity,Pol
+926,ORF,Osp
+956,protein tyrosine phosphatase activity,Meg
+1012,helicase activity//DNA binding//ATP binding//DNA helicase activity//general RNA polymerase II transcription factor activity,Xnp
+1032,sequence-specific DNA binding//DNA binding//specific RNA polymerase II transcription factor activity//transcription factor activity,Cut
+1093,ORF,Hbs
+1121,RNA-directed DNA polymerase activity,Pol
+1261,unfolded protein binding//heat shock protein binding,Jdp
+1304,ORF,Dpr
+1375,proton-dependent oligopeptide secondary active transmembrane transporter activity,Yin
+1419,ORF,Sha
+1441,ORF,Tob
+1514,ORF,Tth
+1611,RNA-directed DNA polymerase activity,Pol
+1615,ORF,Ppl
+1650,RNA-directed DNA polymerase activity,Pol
+1660,UTP:glucose-1-phosphate uridylyltransferase activity,Ugp
+1675,ORF,Tex
+1815,ORF,NudC
+1848,ORF,Sty
+1851,ORF,Pon
+2021,RNA-directed DNA polymerase activity,Pol
+2123,ORF,Pot
+2152,transcription factor activity,Usf
+2206,4-hydroxybenzoate octaprenyltransferase activity,Coenzyme Q biosynthesis protein 2
+2220,RNA-directed DNA polymerase activity,Pol
+2396,protein binding//GTP binding,Ebi
+2483,ORF,Tan
+2541,ORF,Wbl
+2597,ORF,Ocn
+2724,ORF,Raw
+2904,ORF,Dob
+2920,transcription repressor activity//transcription factor binding,Nab
+2942,DNA binding//RNA polymerase II transcription factor activity//transcription factor activity,Mnt
+3091,small conjugating protein ligase activity,Ubl conjugation pathway|Probable ubiquitin-conjugating enzyme E2 CG4502
+3141,nucleic acid binding,Dek
+3178,transcription activator activity//translation initiation factor activity//transcription factor binding//RNA polymerase III transcription factor activity//zinc ion binding,Brf
+3226,ORF,Ave
+3354,transposase activity//DNA binding,Orf
+3413,signal transducer activity//ligase activity//protein binding//zinc ion binding//calcium ion binding,Cbl
+3435,ORF,Wds
+3443,ORF,Hdm
+3540,RNA-directed DNA polymerase activity,Pol
+3558,RNA-directed DNA polymerase activity,Pol
+3560,superoxide dismutase copper chaperone activity,Ccs
+3619,ORF,Rst
+3726,NADH-putidaredoxin reductase,CamA|putidaredoxin reductase
+3732,ORF,Mrt
+3741,recombinase activity//transposase activity//DNA binding,Orf
+3783,ORF,Bai
+3917,nicotinic acetylcholine-activated cation-selective channel activity//neurotransmitter receptor activity,Sad
+3960,protein binding,Arc
+4099,ORF,Him
+4115,ORF,Pim
+4122,peroxidase activity,Pxd
+4217,ORF,Bam
+4324,ORF,Sle
+4328,sequence-specific DNA binding//DNA binding//specific RNA polymerase II transcription factor activity//protein heterodimerization activity//protein binding//RNA polymerase II transcription factor activity//transcription factor activity//protein dimerization activity//transcription factor binding,Fos
+4393,ORF,Hig
+4424,ORF,Sns
+4527,ORF,Dlt
+4584,"phosphotransferase activity, alcohol group as acceptor",phosphofructokinase|phosphoglucokinase|phosphofructokinase|phosphoglucokinase
+4618,Inferred from experiment,Hex-A
+4692,RNA polymerase II transcription factor activity//transcription factor activity,Net
+4724,acetylgalactosaminyltransferase activity,"N-acetylglucosamine metabolic process|acetylgalactosaminyltransferase activity|transferase activity, transferring glycosyl groups"
+4901,ORF,Prc
+4902,GDP-fucose protein O-fucosyltransferase 1,Peptide-O-fucosyltransferase 1|nti|O-FucT-1
+4999,ORF,Omd
+5003,ORF,Blp
+5008,oxidoreductase activity,Ary
+5080,RNA-directed DNA polymerase activity,Pol
+5157,ORF,Qtc
+5275,neurotransmitter transporter activity,Hid
+5360,ORF,Bnb
+5463,RNA-directed DNA polymerase activity,Pol
+5500,ORF,Rdh
+5560,ORF,Mst
+5565,ORF,Aru
+5579,wide-spectrum protease inhibitor activity//serine-type endopeptidase inhibitor activity//protein binding,Tep
+5960,ORF,Djl
+6062,ORF,Pck
+6110,extracellular ligand-gated ion channel activity//excitatory extracellular ligand-gated ion channel activity,Ntr
+6134,ORF,Fln
+6208,ORF,Pgc
+6277,transcription corepressor activity,Cir
+6304,protein N-methyltransferase activity,protein binding
+6313,ORF,Fas
+6360,ORF,Tra
+6579,ORF,Nes
+6685,ORF,Jog
+6843,Rho guanyl-nucleotide exchange factor activity//guanyl-nucleotide exchange factor activity//protein binding//Rho GTPase activator activity//diacylglycerol binding,Vav
+6944,ORF,Pxb
+6984,"alpha(1,3)-fucosyltransferase activity",Galactoside 3-L-fucosyltransferase
+7127,transporter activity,Sug
+7151,ORF,Lbm
+7180,transmembrane receptor protein tyrosine kinase activity,Alk
+7186,RNA-directed DNA polymerase activity,Orf
+7267,hydrolase activity//beta-alanyl-dopamine hydrolase activity//beta-alanyl-histamine hydrolase activity,Tan
+7283,ORF,Wls
+7370,acetyltransferase activity//N-acetyltransferase activity//protein binding,Eco
+7372,phosphorylase kinase activity,Jnk
+7593,ORF,Mfr
+7638,protein binding,Gga
+7771,ORF,Skl
+7792,ORF,Ecd
+7822,ORF,Thr
+7896,ORF,Nbs
+7899,"alpha-1,6-mannosyltransferase activity",Mannosyltransferase ALG12 homolog
+7915,GTPase activity,Ran
+8019,RNA-directed DNA polymerase activity,Orf
+8087,ORF,JanA
+8121,SH3/SH2 adaptor activity//protein binding,Crk
+8161,ORF,Sdk
+8340,ORF,Vls
+8450,ORF,Aly
+8489,nicotinic acetylcholine-activated cation-selective channel activity//neurotransmitter receptor activity,Als
+8517,transcription regulator activity//DNA binding//specific RNA polymerase II transcription factor activity//ATP binding//protein binding//RNA polymerase II transcription factor activity//transcription factor activity,Run
+8561,"metabotropic glutamate, GABA-B-like receptor activity//G-protein coupled receptor activity//glutamate binding//glutamate receptor activity",Mxr
+8591,ORF,Cbs
+8644,ORF,Ubl
+8676,ORF,Alt
+8697,caspase activity,Ice
+8776,"alpha(1,3)-fucosyltransferase activity","ALPHA 1,3 FUCOSYLTRANSFERASE-RELATED"
+8808,ORF,Eca
+8816,ORF,Loj
+8916,DNA binding//zinc ion binding,Pol
+8957,diphosphoinositol-polyphosphate diphosphatase activity,Aps
+8992,ORF,Rux
+9042,ORF,Nct
+9071,nicotinic acetylcholine-activated cation-selective channel activity//neurotransmitter receptor activity,Sbd
+9090,ORF,Noe
+9110,ORF,Fog
+9202,protein serine/threonine kinase activity,Sak
+9207,aminoacyl-tRNA ligase activity//zinc ion binding//nucleic acid binding//ATP binding,Gag
+9252,ORF,Del
+9253,sequence-specific DNA binding//DNA binding//specific RNA polymerase II transcription factor activity//transcription factor activity,Bar
+9257,ORF,Vsg
+9362,transaldolase activity,Tal
+9411,ORF,Osk
+9452,zinc ion binding//nucleic acid binding,Gag
+9517,small GTPase regulator activity//Rab GTPase binding//zinc ion binding,Rim
+9518,ORF,Boi
+9590,ORF,Oaf
+9778,endopeptidase inhibitor activity//protein binding,Tep
+9806,ORF,Vlc
+9812,peroxidase activity,Pxt
+9831,proteasome activator activity,Reg
+9843,ORF,Tty
+10059,vinculin binding,Cap
+10061,RNA-directed DNA polymerase activity,Pol
+10096,ORF,Gnu
+10166,ORF,Fax
+10254,ORF,Unc
+10343,ORF,Pmi
+10376,ORF,Wda
+10407,non-membrane spanning protein tyrosine kinase activity,Ack
+10430,S-formylglutathione hydrolase,CG4390
+10441,protein kinase activity,Pek
+10490,RNA-directed DNA polymerase activity,Pol
+10504,ORF,Laf
+10548,growth factor activity,Ccn
+10557,ribonuclease H activity,Pol
+10563,ORF,Dgo
+10564,ORF,Dsd
+10578,ORF,Fit
+10641,ORF,Pst
+10659,ORF,Hps
+10719,DNA binding//aspartic-type endopeptidase activity//zinc ion binding,Orf
+10782,zinc ion binding//nucleic acid binding,Gag
+10889,ORF,Jet
+11068,sequence-specific DNA binding//DNA binding//RNA polymerase II transcription factor activity//zinc ion binding,Ovo
+11094,3-hydroxyacyl-CoA dehydrogenase type-2,3-hydroxyacyl-CoA dehydrogenase type II
+11108,acyltransferase activity,1-acylglycerophosphocholine O-acyltransferase 1
+11128,Inferred computationally without human oversight,CAD protein|r
+11144,UDP-N-acetylglucosamine transmembrane transporter activity//GDP-mannose transmembrane transporter activity//UDP-xylose transmembrane transporter activity//UDP-glucuronic acid transmembrane transporter activity//antiporter activity//GDP-fucose transmembrane transporter activity//UDP-galactose transmembrane transporter activity//UDP-glucose transmembrane transporter activity//pyrimidine nucleotide sugar transmembrane transporter activity,Frc
+11209,ORF,Fon
+11230,GTP binding,Ngp
+11235,small conjugating protein ligase activity,ubiquitin-protein ligase activity
+11236,ORF,Fzy
+11240,cyclin binding,Set
+11278,oxidized putidaredoxin,CamB
+11384,transcription factor activity//zinc ion binding,Jim
+11502,ORF,JanB
+11721,ORF,Ect
+11771,transmembrane receptor protein tyrosine kinase activity,Ror
+11795,ORF,Gus
+11802,ORF,Slv
+11817,ORF,Btz
+11935,N-acetyltransferase activity,Polycomb protein l(1)G0020
+12032,malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+) activity,Mdh
+12061,ORF,Lcs
+12157,heat shock protein binding,Mrj
+12194,ORF,Bys
+12198,sequence-specific DNA binding//transcription factor activity,Mnf
+12232,protein serine/threonine kinase activity,Wee
+12249,endopeptidase inhibitor activity//protein binding,Tep
+12264,ORF,Tey
+12265,"alpha(1,3)-fucosyltransferase activity",Galactoside 3-L-fucosyltransferase|Galactoside 3-L-fucosyltransferase
+12280,ORF,Gdl
+12342,ORF,Kuk
+12418,ORF,Rap
+12487,ORF,Lig
+12546,ORF,Mam
+12556,ORF,Fok
+12590,ORF,Tow
+12703,ORF,Pio
+12839,RNA-directed DNA polymerase activity,Pol
+12892,putidaredoxin,CamB
+12954,nucleotide binding//transcription coactivator activity//mRNA binding//nucleic acid binding,Aly
+12962,ORF,Lqf
+13102,ORF,Rha
+13150,DNA binding,Orf
+13187,DNA binding//RNA polymerase II transcription factor activity,Rfx
+13283,zinc ion binding//nucleic acid binding,Gag
+13298,ORF,Fau
+13351,ORF,Aft
+13420,protein binding//translation regulator activity//RNA binding,Cup
+13429,ORF,Pcx
+13468,ORF,Nol
+13524,RNA-directed DNA polymerase activity,Pol
+13559,ORF,Asl
+13598,endoribonuclease activity,Ire
+13645,endopeptidase inhibitor activity,Tep
+13716,RNA-directed DNA polymerase activity,Pol
+13803,sequence-specific DNA binding//DNA binding//specific RNA polymerase II transcription factor activity//transcription factor activity,Bar
+13851,receptor activity//cell adhesion molecule binding//calcium ion binding,Fat
+13874,ORF,Ast
+14020,cytochrome P-450cam,CamC
+14090,small conjugating protein ligase activity,CG9712-PA (Tumor suppressor protein 101)
+14091,RNA-directed DNA polymerase activity,Pol
+14121,small conjugating protein ligase activity,Kua
+14249,oligosaccharyl transferase activity,DAD-1|Defender against cell death 1
+14281,ORF,Rod
+14313,ORF,Gry
+14384,RNA-directed DNA polymerase activity,Pol
+14424,ORF,Ptr
+14435,ORF,Klg
+14450,ORF,Koi
+14541,cysteinylglycine,Cys-Gly
+14542,L-&gamma;-glutamylcysteine,&gamma;-glutamylcysteine|&gamma;-L-glutamyl-L-cysteine
+14545,apo-[acyl carrier protein],apo-[acyl carrier protein]|AcpM|B1094|apoprotein [acyl carrier protein]|AcpP|acyl carrier protein|apo-ACP|ACP
+14546,holo-[acyl-carrier protein],AcpM|B1094|AcpP|acyl carrier protein|ACP-SH|ACP
+14551,a glycoprotein with the oligosaccharide chain attached by <i>N</i>-glycosyl linkage to protein L-asparagine,A glycoprotein with the (glucosyl)<SUB>3</SUB>(mannosyl)<SUB>9</SUB>(<i>N</i>-acetylglucosaminyl)<SUB>2</SUB> chain attached by glycosylamine linkage to protein-L-asparagine
+14557,camphor 5-monooxygenase,camphor 5-exo-methylene hydroxylase|2-boranone 5-exo-hydroxylase|camphor hydroxylase|methylene hydroxylase|methylene monooxygenase
+14574,a 4-amino-2-methyl-5-phosphomethylpyrimidine synthase,THI5|HMP-P synthase
+14576,a microsomal-membrane protein,[microsomal-membrane-protein]
+14585,a protein sulfur acceptor,a sulfur donor
+14598,a ribosomal protein-L-alanine,a ribosomal-protein L-alanine|ribosomal-protein L-alanine
+14599,Glc-&beta;-EGF-like domain,Glc&beta;-Ser<sup>53</sup>-EGF-like domain of bovine factor IX(45-87)
+14607,a factor VIII,FVIII|anti-hemophilic factor
+14616,[a SoxZY protein]-S-thiocysteine,[SoxZY]-S-thiocysteine|[SoxZY]-persulfide
+14629,a peptide,a peptide|peptide
+14635,mature pro-interleukin-1&beta;,mature 1L-1&beta;
+14636,a factor VII,proconvertin
+14643,2-methylbutanoate polyketide synthase,LovF
+14646,ubiquitin-conjugating enzyme E2,a ubiquitin-conjugating enzyme|a ubiquitin-carrier enzyme
+14647,E1 ubiquitin-activating enzyme,ubiquitin-activating enzyme
+14653,a [biotin-carboxyl-carrier protein monomer],biotin-carboxyl-carrier protein|BCCP|biotin-carboxyl-carrier protein monomer
+14657,a ribosomal protein L3,RPL3
+14658,a release factor,peptide chain release factor
+14659,[LysW L-2-aminoadipate carrier protein],LysW|&alpha;-aminoadipate carrier protein|[an L-2-aminoadipate carrier protein]
+14661,a peptide,peptide
+14663,epidermal growth factor-like domain,EGF-domain
+14670,an iron-sulfur protein,oxidized Fe-S protein
+14695,a protein with oxidized disulfide bonds,a protein with oxidized disulfide bonds|protein with oxidized disulfide bonds
+14696,[a SoxZY protein]-thiocysteine-sulfate,[SoxZY]-thiocysteine-sulfate|[SoxZY]-thiosulfonate
+14703,a non-lipoylated protein-lipoyl domain,apo-domain
+14704,an oxidized transferrin,transferrin[Fe(III)]<sub>2</sub>
+14706,a ribosomal protein-<i>N</i>-acetyl-L-alanine,a ribosomal-protein N-acetyl-L-alanine|ribosomal-protein N-acetyl-L-alanine
+14725,an [MtaB protein],tRNA-2-methylthio-<i>N</i><sup>6</sup>-threonylcarbamoyladenosine synthase|(N6-L-threonylcarbamoyladenosine<sup>37</sup>-C2)-methylthiotransferase
+14726,a sulfurated [MtaB protein],[MtaB]-S
+14727,&beta;-oxo-L-tyrosine-<i>S</i>-[NovH protein],(2Z)-2-amino-3-hydroxy-3-(4-hydroxyphenyl)prop-2-enoate-[NovH protein]|&beta;-keto-L-tyrosine-<i>S</i>-[NovH protein]
+14728,(R)-&beta;-hydroxy-L-tyrosine-<i>S</i>-[NovH protein],(R)-3-hydroxy-L-tyrosine-<i>S</i>-[NovH protein]
+14730,a polyketide synthase,a PKS
+14734,a reduced transferrin,transferrin[Fe(II)]<sub>2</sub>
+14736,a blue copper protein,a cupredoxin
+14741,a fibrinogen,factor I
+14744,pro-interleukin-1&beta;,pro-IL-1&beta;
+14750,a peptide with proline in the third position,Xaa-Xaa-Pro-Yaa-
+14751,a factor XII,Hageman factor
+14759,a poly-[&gamma;-glutamylcysteine]-glycine,a poly &gamma;-glutamylcysteine-glycine
+14760,an <i>S</i>-sulfanyl-[L-cysteine desulfurase],a persulfurated L-cysteine desulfurase
+14766,a SpoIVB peptidase,a stage IV sporulation protein B|a sporulation factor IV B protease
+14770,an <i>S</i>-sulfanyl-[ThiI sulfur-carrier protein],a sulfurylated sulfur-carrier protein ThiI
+14772,a protein with reduced sulfide groups,a protein with reduced SH groups|protein with reduced SH groups
+14773,helper component proteinase,Hc-Pro
+14776,an <i>N</i><sup>&alpha;</sup>-acetyl-peptide,an <i>N</i>-acetyl-peptide
+14791,a lipoylated protein lipoyl-domain,lipoyl-domain
+14806,eEF-2,translation elongation factor 2
+14807,a TNF-&alpha; precursor,tumor necrosis factor &alpha;
+14808,a peptide with N-terminal 5-oxo-L-proline,pyroglutamyl-peptide
+14809,Xyl-&alpha;(1-3)-Glc-&beta;-EGF-like domain,Xyl&alpha;(1-3)Glc&beta;-Ser<sup>53</sup>-EGF-like domain of bovine factor IX(45-87)
+14822,a factor X,Stuart-Prower factor|thrombokinase
+14823,a (3<i>S</i>)-3-hydroxy-L-asparagine-HIF &alpha; subunit,a hypoxia-inducible factor-(3<i>S</i>)-3-hydroxy-L-asparagine
+14826,a factor IX,Christmas factor
+14830,a hypoxia inducible factor (HIF) &alpha; subunit,HIF-&alpha;
+14837,a fucosyl-protein,a fucosylated protein acceptor
+14843,a <i>trans</i>-4-hydroxy-L-proline-HIF &alpha; subunit,hypoxia-inducible factor-trans-4-hydroxy-L-proline
+14857,(E3-independent) E2 ubiquitin-conjugating enzyme,ubiquitin-carrier protein E2|ubiquitin-carrier enzyme E2|(E3-independent) ubiquitin-conjugating enzyme E2
+14859,Rhd sulfur-carrier protein,Rhd rhodanese
+14861,a small archaeal modifier protein,SAMP
+14864,an <i>apo</i>-phycoerythrocyanin &alpha;-subunit,<i>apo</i>-PecA
+14865,a [phycoerythrocyanin &alpha;-subunit Cys-84]-PVB,PecA
+14866,an <i>apo</i> C-phycoerythrin &beta;-subunit,CpeB
+14868,an <i>apo</i> C-phycoerythrin &alpha;-subunit,CpeA
+14878,lovastatin nonaketide synthase,LovB|LNKS
+14879,an <i>apo</i>-phycoerythrocyanin &beta;-subunit,<i>apo</i>-PecB
+14880,a [phycoerythrocyanin &beta;-subunit Cys-84]-phycocyanobilin,a [phycoerythrocyanin &beta;-subunit Cys-84]-PCB
+14881,a [phycoerythrocyanin &beta;-subunit Cys-155]-phycocyanobilin,a [phycoerythrocyanin &beta;-subunit Cys-155]-PCB
+14882,an <i>apo</i> C-phycocyanin &beta;-subunit,CpcB
+14883,a [C-phycocyanin &beta;-subunit-Cys82]-phycocyanobilin,a [C-phycocyanin &beta;-subunit-Cys82]-PCB
+14884,a [C-phycocyanin &beta;-subunit-Cys-155]-phycocyanobilin,a [C-phycocyanin &beta;-subunit-Cys-155]--PCB
+14885,an <i>apo</i>-allophycocyanin &beta;-subunit,<i>apo</i>-ApcB
+14886,a [allophycocyanin &beta;-subunit-Cys84]-phycocyanobilin,a [allophycocyanin &beta;-subunit-Cys84]-PCB
+14887,an <i>apo</i> R-phycocyanin V &alpha;-subunit,RpcA
+14888,[R-phycocyanin V &alpha;-subunit-Cys84]-phycourobilin,[R-PC&alpha;]-phycourobilin
+14889,an <i>apo</i> C-phycocyanin &alpha;-subunit,CpcA
+14891,an <i>apo</i>-allophycocyanin &alpha;-subunit,<i>apo</i>-ApcA
+14892,a [allophycocyanin &alpha;-subunit-Cys84]-phycocyanobilin,a [allophycocyanin &alpha;-subunit-Cys84]-PCB
+14893,phosphorylated elongation-factor 2,elongation-factor 2 phosphate
+14908,phosphorylated [tyrosine-3-monooxygenase],phospho- [tyrosine-3-monooxygenase]
+14924,a 5-D-glutamyl-D-glutamyl-peptide,a &gamma;-D-glutamyl-D-glutamyl-peptide
+14927,an &alpha; factor,<i>Saccharomyces cerevisiae</i> mating pheromon &alpha; factor
+14939,a dipeptide with proline at the C-terminal,Xaa-Pro
+14941,a dipeptide with an N-terminal L-methionine,Met-Xaa dipeptide
+14944,a dipeptide with N-terminal L-arginine,L-Arg-L-Xaa
+14964,an oxidized iron-sulfur protein,an oxidized Fe-S protein
+14965,an [2Fe-2S] cluster protein,a <i>holo</i>-[2Fe-2S] cluster protein
+14966,a reduced iron-sulfur protein,FeS-Proteins-2e|reduced Fe-S protein
+14968,an oxidized ferredoxin,oxidized ferredoxin
+14970,a reduced ferredoxin,reduced ferredoxin
+14980,an adrenodoxin,an adrenal ferredoxin
+14986,a [Co(I) corrinoid Fe-S protein],Co(I)FeSP|a corrinoid Fe-S protein
+14987,a methanethiol-specific corrinoid protein,an MtsB corrinoid protein|a [methanethiol-specific corrinoid protein]
+14988,a dimethylamine-specific corrinoid protein,an MtbC protein|a [dimethylamine-specific corrinoid protein]
+14989,a tetramethylammonium-specific corrinoid protein,an MtqC corrinoid protein|a [tetramethylammonium-specific corrinoid protein]
+14990,a trimethylamine-specific corrinoid protein,an MttC corrinoid protein|a [trimethylamine-specific corrinoid protein]
+14991,a methylamine-specific corrinoid protein,an MtmC corrinoid protein|a [methylamine-specific corrinoid protein]
+14993,a corrinoid Fe-S protein,a [corrinoid Fe-S protein]
+15011,a <i>b</i>-type cytochrome,cytochrome <i>b</i> proteins
+15013,a reduced cytochrome,a ferrocytochrome
+15014,an oxidized cytochrome,a ferricytochrome
+15016,a <i>d</i>-type cytochrome,Cytochrome D protein|cytd proteins
+15019,an oxidized <i>c</i>-type cytochrome,Cytochrome C protein|a Cytochrome C protein|ferricytochrome c
+15024,an oxidized cytochrome <i>c</i>,ferricytochrome c
+15027,a reduced <i>c</i>-type cytochrome,ferrocytochrome c
+15029,a reduced cytochrome <i>c<sub>3</sub></i>,a ferrocytochrome <i>c<sub>3</sub></i>
+15030,an oxidized cytochrome <i>c<sub>3</sub></i>,a ferricytochrome <i>c<sub>3</sub></i>
+15034,an oxidized cytochrome <i>c</i><sub>2</sub>,a ferricytochrome <i>c</i><sub>2</sub>
+15036,an oxidized cytochrome <i>c552</i>,an oxidized cytochrome C552 protein
+15037,an oxidized cytochrome <i>c</i>-553,a ferricytochrome <i>c</i>-553
+15049,a reduced cytochrome <i>c</i>-553,a ferrocytochrome <i>c</i>-553
+15054,a reduced cytochrome <i>c</i><sub>2</sub>,a ferrocytochrome <i>c</i><sub>2</sub>
+15059,an oxidized <i>b</i>-type cytochrome,an oxidized cytochrome <i>b</i>
+15061,a reduced cytochrome <i>b<sub>561</sub></i>,a ferrocytochrome <i>b<sub>561</sub></i>|ferrocytochrome b-561
+15062,an oxidized cytochrome <i>b<sub>561</sub></i>,a ferricytochrome <i>b<sub>561</sub></i>|ferricytochrome b-561
+15063,a ferrocytochrome <i>b<SUB>5</SUB></i>,reduced cytochrome <i>b<SUB>5</SUB></i>
+15064,a ferricytochrome <i>b<sub>5</sub></i>,oxidized cytochrome <i>b<sub>5</sub></i>
+15065,a ferricytochrome  <i>b</i><sub>1</sub>,oxidized cytochrome <i>b</i><sub>1</sub>|cytochrome  <i>b</i><sub>1</sub> oxidized
+15066,a ferrocytochrome  <i>b</i><sub>1</sub>,reduced cytochrome  <i>b</i><sub>1</sub>|cytochrome  <i>b</i><sub>1</sub> reduced
+15069,a reduced <i>d</i>-type cytochrome,reduced Cytochrome D protein|cytD proteins-2e
+15076,a carboxy-adenylated-[ThiS sulfur-carrier protein],adenylyl-[ThiS]
+15077,a ThiS-ThiF acyl-disulfide,This-COSH protein
+15083,a reduced flavodoxin,dihydroflavidoxin
+15084,an oxidized flavodoxin,flavodoxin (oxidized)
+15085,a reduced electron transferring flavoprotein,electron transfer flavoprotein|ETFH<sub>2</sub>|reduced ETF|reduced electron transfer flavoprotein
+15086,an oxidized electron transferring flavoprotein,oxidized ETF
+15087,an oxidized flavoprotein (FAD),an oxidized flavoprotein (FAD)|oxidized flavoprotein (FAD)|flavoprotein (FAD)
+15088,an oxidized flavoprotein (FAD),an oxidized flavoprotein (FMN)|oxidized flavoprotein (FMN)|flavoprotein (FMN)
+15089,an oxidized flavoprotein (FAD),a reduced flavoprotein (FMNH<sub>2</sub>)|reduced flavoprotein (FMNH<sub>2</sub>)|flavoprotein (FMNH2)
+15090,a reduced flavoprotein (FADH<sub>2</sub>),a reduced flavoprotein (FADH<sub>2</sub>)|reduced flavoprotein (FADH<sub>2</sub>)|flavoprotein (FADH2)
+15092,polyketide synthase PKS13,PKS13
+15099,a reduced azurin,azurin<sub>red</sub>
+15100,an oxidized azurin,azurin<sub>ox</sub>
+15104,a phosphorylated I&kappa;B protein,an I&kappa;B phosphoprotein
+15105,a phosphorylated &beta;-adrenergic receptor,phospho-[?-adrenergic receptor]
+15107,a tripeptide with proline at the third position,Xaa-Xaa-Pro
+15109,a thrombin,activated factor II|factor IIa
+15116,an oxidized thioredoxin,a thioredoxin disulfide
+15129,a <i>holo</i>-[acyl-carrier protein],AcpP|holo-[acyl-carrier protein]|ACP-SH|ACP|[acyl-carrier protein]
+15135,a 4-amino butanoyl-[BtrI acyl-carrier protein],a &gamma;-amino butyryl-[acp]|a 4-amino butyryl-[BtrI acyl-carrier protein]|a 4-amino butyryl-[acp]|a &gamma;-amino butyryl-[BtrI acyl-carrier protein]|a 4-amino butanoyl-[acp]
+15137,a 4-(&gamma;-L-glutamylamino)-(<i>S</i>)-2-hydroxy-butanoyl-[BtrI acyl-carrier protein],a &gamma;-L-Glu-AHBA-[BtrI acyl-carrier protein]|a &gamma;-L-Glu-AHBA-S-BtrI
+15138,an L-glutamyl-[BtrI acyl-carrier protein],an L-glutamyl-[acp]
+15151,a <i>holo</i> aryl-carrier protein,a phosphopantetheinylated aryl-carrier protein
+15158,an <i>apo</i> 2-oxoglutarate dehydrogenase E2 protein,E2(O)
+15159,an <i>apo</i> pyruvate dehydrogenase E2 protein,E2(P)
+15160,an <i>apo</i> pyruvate dehydrogenase E2 protein,a ubiquinol-8 oxidoreductase|ubiquinol-8 oxidoreductase
+15161,an <i>apo</i> pyruvate dehydrogenase E2 protein,a ubiquinone-8 oxidoreductase|ubiquinone-8 oxidoreductase
+15162,an <i>apo</i> pyruvate dehydrogenase E2 protein,a menaquinone oxidoreductase (demethylmenaquinol)|menaquinone oxidoreductase (demethylmenaquinol)
+15163,an <i>apo</i> pyruvate dehydrogenase E2 protein,a menaquinone oxidoreductase (demethylmenaquinone)|menaquinone oxidoreductase (demethylmenaquinone)
+15164,an <i>apo</i> pyruvate dehydrogenase E2 protein,a menaquinone oxidoreductase (menaquinol-8)|menaquinone oxidoreductase (menaquinol-8)
+15165,an <i>apo</i> pyruvate dehydrogenase E2 protein,a menaquinone oxidoreductase (menaquinone-8)|menaquinone oxidoreductase (menaquinone-8)
+15168,a phosphorylated G protein-coupled receptor,[G-protein-coupled receptor] phosphate
+15173,complement component protein C4c,a reduced hybrid-cluster protein|reduced hybrid-cluster protein|hybrid-cluster protein<SUB>red</SUB>
+15174,complement component protein C4c,an oxidized hybrid-cluster protein|oxidized hybrid-cluster protein|hybrid-cluster protein<SUB>ox</SUB>
+15178,a retinal-binding protein,a retinaldehyde-binding protein
+15182,a (15<i>Z</i>)-phycoerythrocyanin &alpha;-subunit,PecA
+15183,a (15<i>E</i>)-phycoerythrocyanin &alpha;-subunit,PecA
+15189,a palmitoylated protein,palmitoyl[protein]
+15191,<i>N</i>-acetyl-&beta;-D-glucosaminyl-(1&rarr;2)-[<i>N</i>-acetyl-&beta;-D-glucosaminyl-(1&rarr;4)]-&alpha;-D-mannosyl-(1&rarr;3)-&beta;-D-mannosyl-R,"3-(2,4-bis[N-acetyl-b-D-glucosaminyl]-a-D-mannosyl)-b-D-mannosyl-R"
+15193,an activated protein C,APC
+15199,[a biotinylated MadF protein],a biotinyl-[protein]
+15207,a [protein]-<i>N</i><sup>6</sup>-D-ribulosyl-L-lysine,a protein ribulosamine
+15210,an oxidized nitrogenase,"a dinitrogenase, oxidized|a dinitrogen reductase, oxidized|a nitrogenase, oxidized"
+15213,a factor Xa,activated factor X
+15217,a [protein]-<i>N</i><sup>6</sup>-D-erythrulosyl-L-lysine,a protein erythrulosamine lysine
+15219,a citryl-[<i>holo</i> citrate lyase acyl-carrier protein],a [citrate (pro-3S)-lyase](citryl form)|a [citrate-lyase] (citryl form)
+15221,a [protein]-<i>N</i><sup>6</sup>-D-erythrulosyl-L-lysine,a protein erythrulosamine
+15229,a factor IXa,activated factor IX
+15237,a factor Va,activated factor V|proaccelerin
+15241,<i>N</i>-acetyl-&beta;-D-glucosaminyl-(1&rarr;2)-&alpha;-D-mannosyl-(1&rarr;3)-&alpha;-D-mannosyl-R,6-(2-[N-acetyl-b-D-glucosaminyl]-a-D-mannosyl)-b-D-mannosyl-R
+15245,a factor XIa,activated factor XI
+15249,an acetyl-[<i>holo</i> citrate lyase acyl-carrier protein],[citrate-oxaloacetate-lyase((pro-3S)-CH2COO-acetate)]|citrate-oxaloacetate-lyase|[citrate (pro-3S)-lyase](acetyl form)
+15253,&alpha;-D-mannosyl-(1&rarr;6)-&alpha;-D-mannosyl-R,6-(a-D-mannosyl)-b-D-mannosyl-R
+15259,[DsrEFH complex] persulfide,a DsrEFH complex persulfide
+15261,a biotinylated [BCCP dimer],BCCP dimer|biotin carboxy carrier protein (dimer)
+15265,[a carboxylated biotinylated MadF protein],a carboxybiotinyl-[protein]
+15274,a [protein]-<i>N</i><sup>6</sup>-D-psicosyl-L-lysine,a protein psicosamine
+15281,a glycosaminoglycan,mucopolysaccharides
+15283,<i>O</i>-&beta;-D-xylosyl-[core protein],protein <i>O</i>-D-xyloside|a core protein L-serine-&beta;-D-xylose|D-xylosylprotein
+15285,aggrecan,chondroitin sulfate proteoglycan 1
+15286,<i>N</i>-acetyl-D-galactosaminyl-(1&rarr;4)-&beta;-D-glucuronyl-(1&rarr;3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosyl-[core protein],&alpha;-<i>N</i>-acetyl-D-galactosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosyl-[proteoglycan]
+15288,<i>N</i>-acetyl-&beta;-D-galactosaminide-[chondroitin/dermatan],"<i>N</i>-acetyl-D-galactosaminyl-1,4-&beta;-D-glucuronyl-<i>N</i>-acetyl-1,3-&beta;-D-galactosaminylproteoglycan|<i>N</i>-acetyl-&beta;-D-galactosaminyl-(1->4)-&beta;-D-glucuronosyl-[proteoglycan]"
+15289,chondroitin,chondroitin-D-glucuronate
+15291,hyaluronan,hyaluronic acid|hyaluronate
+15294,a keratan,keratan sulfate|Kerato sulfate|keratan 6'-sulfate|kerato 6'-sulfate
+15295,heparin,enoxaparin
+15296,heparan sulfate,heparitin sulfate
+15298,[chondroitin]-&beta;-D-glucuronate,[dermatan]-&beta;-D-glucuronate
+15302,chondroitin sulfate A,chondroitin 4-sulfate
+15305,[dermatan]-4-<i>O</i>-sulfo-<i>N</i>-acetyl-D-galactosamine,[dermatan]-<i>N</i>-acetyl-galactosamine 4'-sulfate
+15306,[dermatan]-&alpha;-L-iduronate,dermatan-L-iduronate
+15308,keratan sulfate,keratan sulfate|kerato sulfate|keratan|kerato 6'-sulfate
+15309,[keratan sulfate]-&alpha;-<i>N</i>-acetyl-D-glucosamine,a keratan glucosamine
+15310,[keratan sulfate]-&alpha;-<i>N</i>-acetyl-D-glucosamine 6-<i>O</i>-sulfate,a keratan glucosamine-6-<i>O</i>-sulfate
+15311,[heparin]-&alpha;-<i>N</i>-acetyl-D-glucosamine 3-<i>O</i>-sulfate,a heparin <i>N</i>-acetylglucosamine-3-<i>O</i>-sulfate
+15312,[heparin]-&alpha;-<i>N</i>-sulfo-D-glucosamine,a heparin <i>N</i>-sulfoglucosamine
+15313,[heparin]-&alpha;-<i>N</i>-sulfo-D-glucosamine 3-<i>O</i>-sulfate,a heparin <i>N</i>-sulfoglucosamine-3-<i>O</i>-sulfate
+15314,<i>N</i>-acetyl-&alpha;-D-glucosaminide-[heparan sulfate],N-acetyl-&alpha;-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->4)-N-acetyl-&alpha;-D-glucosaminylproteoglycan|N-acetyl-&alpha;-D-glucosaminyl-(1->4)-&beta;-D-glucuronosylproteoglycan|<i>N</i>-acetyl-a-D-glucosaminide-[heparan sulfate]
+15318,&beta;-D-glucuronosyl-[hyaluronan],&beta;-D-glucuronosyl-(1->3)-N-acetyl-&alpha;-D-glucosaminyl-[hyaluronan]|&beta;-D-glucuronosyl-(1->3)-N-acetyl-&alpha;-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-[hyaluronan]
+15319,&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosyl-[core protein],&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosylproteoglycan
+15320,&alpha;-N-acetyl-D-glucosaminyl-&beta;-D-glucuronosyl-(1->3)-&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosyl-[core protein],&alpha;-N-acetyl-D-glucosaminyl-&beta;-D-glucuronosyl-(1->3)-&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosyl-[proteoglycan]|&alpha;-N-acetyl-D-glucosaminyl-&beta;-D-glucuronosyl-(1->3)-&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosylproteoglycan
+15321,&beta;-D-glucuronosyl-(1->3)-&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosyl-[core protein],&beta;-D-glucuronosyl-(1->3)-&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosyl-[proteoglycan]|&beta;-D-glucuronosyl-(1->3)-&alpha;-N-acetyl-D-glucosaminyl-(1->4)-&beta;-D-glucuronosyl-(1->3)-&beta;-D-galactosyl-(1->3)-&beta;-D-galactosyl-(1->4)-&beta;-D-xylosylproteoglycan
+15322,[heparan]-<i>N</i>-acetyl-&alpha;-D-glucosamine,a heparin glucosamine
+15323,&beta;-D-glucuronosyl-[heparan sulfate],&beta;-D-glucuronosyl-(1->4)-N-acetyl-&alpha;-D-glucosaminylproteoglycan|&beta;-D-glucuronosyl-(1->4)-N-acetyl-&alpha;-D-glucosaminyl-(1->4)-&beta;-D-glucuronosylproteoglycan
+15326,[heparosan-<i>N</i>-sulfate]-D-glucuronate,[heparosan-<i>N</i>-sulfate]-D-glucuronate|heparosan-<i>N</i>-sulfate D-glucuronate
+15327,[heparan sulfate]-&alpha;-D-glucosamine 3-sulfate,[heparan sulfate]-glucosamine 3-sulfate
+15328,"D-glucuronosyl-1,3-&beta;-D-galactosyl-[proteoglycan]","3-&beta;-D-glucuronosyl-3-&beta;-D-galactosyl-4-&beta;-D-galactosyl-O-&beta;-D-xylosylprotein|&beta;-D-glucuronyl-1,3-D-galactosylproteoglycan"
+15329,&beta;-D-glucuronosyl-[chondroitin/dermatan],"D-glucuronyl-<i>N</i>-acetyl-1,3-&beta;-D-galactosaminylproteoglycan|&beta;-D-glucuronosyl-(1->3)-<i>N</i>-acetyl-&beta;-D-galactosaminyl-(1->4)-&beta;-D-glucuronosyl-[proteoglycan]"
+15331,a glycoprotein with the oligosaccharide chain attached by <i>N</i>-glycosyl linkage to protein L-asparagine,A glycoprotein with the (glucosyl)<SUB>3</SUB>(mannosyl)<SUB>9</SUB>(<i>N</i>-acetylglucosaminyl)<SUB>2</SUB> chain attached by glycosylamine linkage to protein-L-asparagine
+15336,an acyl-[acyl-carrier protein],acyl-[acyl carrier protein]|CH3(CH2)xCO-S-ACP|acyl-ACP
+15337,a 3-oxoacyl-[acp],a 3-oxoacyl-[acyl-carrier protein]|an acetoacyl-ACP|CH3(CH2)xCOCH2CO-S-ACP
+15338,a fatty-acyl-[acp],a fatty-acyl-[acyl-carrier-protein]
+15341,a (3<i>R</i>)-3-hydroxyacyl-[acyl-carrier protein],a (3R)-3-hydroxyacyl-[acyl-carrier protein]|CH3(CH2)xCHOHCH2CO-S-ACP|a &beta;-OH-acyl-ACP|a &beta;-hydroxy-acyl-ACP
+15357,a 3-oxo-stearoyl-[acp],a 3-keto-stearoyl-[acp]|a 3-oxo-octadecanoyl-[acp]
+15358,a 3-oxo-palmitoyl-[acp],a 3-keto-palmitoyl-[acp]|a 3-oxo-hexadecanoyl-[acp]
+15368,a 3-oxo-dodecanoyl-[acp],a 3-keto-dodecanoyl-[acp]
+15369,a 3-oxo-glutaryl-[acp] methyl ester,a 3-ketoglutaryl-[acp] methyl ester
+15370,a 3-oxo-decanoyl-[acp],a 3-keto-decanoyl-[acp]
+15371,a 3-oxo-myristoyl-[acp],a 3-oxo-tetradecanoyl-[acp]|a 3-keto-meristoyl-[acp]
+15376,a 3-oxo-pimeloyl-[acp] methyl ester,a 3-ketopimeloyl-[acp] methyl ester
+15379,a 3-oxo-docosapentaenoyl [acp],a 3-oxo-docosapentaenoyl [acyl-carrier-protein]
+15386,a malonyl-[acp],AcpP|malonyl-[acyl-carrier protein]|malonyl-S-ACP|malonyl-acyl-carrier-protein
+15387,a long-chain acyl-[acp],a long-chain acyl-[acyl-carrier protein]|a fatty acyl-[acp]
+15392,a dodecanoyl-[acp],a dodecanoyl-[acyl-carrier protein]|a lauryl-[acp]
+15395,a palmitoyl-[acp],a palmitoyl-[acyl-carrier-protein]
+15403,a (3<i>R</i>)-3-hydroxyhexanoyl-[acp],a &beta;-hydroxyhexanoyl-[acp]
+15424,a (3R)-3-hydroxystearoyl-[acp],a (R)-3-hydroxyoctadecnoyl-[acp]
+15425,a (3<i>R</i>)-3-hydroxyoctanoyl-[acp],a &beta;-hydroxyoctanoyl-[acp]
+15432,a (3<i>R</i>)-3-hydroxydecanoyl-[acp],an (<i>R</i>)-3-hydroxydecanoyl-[acyl-carrier protein]|a &beta;-hydroxydecanoyl-[acp]
+15435,a (<i>3R</i>)-3-hydroxydodecanoyl-[acp],a &beta;-hydroxydodecanoyl-[acp]
+15438,a (3<i>R</i>)-3-hydroxypalmitoyl-[acp],a &beta;-hydroxypalmitoyl-[acp]
+15443,a (3<i>R</i>)-3-hydroxymyristoyl-[acp],a &beta;-hydroxymyristoyl-[acp]
+15446,a (<i>3R</i>)-3-hydroxybutanoyl-[acp],a &beta;-3-hydroxybutyryl-[acp]
+15523,a butyryl-[acp],a butanoyl-[acp]
+15527,an acetyl-[acp],AcpP|acetyl-[acyl-carrier protein]|acetylacylcarrier-protein
+15531,a (4Z)-hexadec-4-enoyl-[acp],a &Delta;4-hexadecenoyl-[acyl-carrier-protein]
+15535,a <i>trans</i>-2-enoyl-[acyl-carrier protein],"a trans-2,3-dehydroacyl-[acyl-carrier protein]|a trans-2,3-dehydroacyl-ACP|CH3(CH2)xCH=CHCO-S-ACP|an &alpha;,&beta;-trans-enoyl-ACP"
+15542,a <i>cis</i>-enoyl-acyl-[acp],CH3(CH2)x-1CH=CHCH2CO-S-ACP
+15548,a sapienoyl-[acp],a &Delta;6-hexadecenoyl-[acyl-carrier-protein]
+15549,a petroselinoyl-[acp],a petroselinoyl-[acyl-carrier-protein]
+15554,"a <i>cis</i>-3,4-dehydrodecanoyl-[acp]","a <i>cis</i>-3,4-dehydrodecanoyl-ACP"
+15558,a <i>cis</i>-vaccenoyl-[acp],a (<i>Z</i>)-3-oxooctadec-13-enoyl-[acp]|a (<i>Z</i>)-3-oxooctadec-13-enoyl-[acyl-carrier-protein]|a <i>cis</i>-vaccenoyl-[acyl-carrier protein]
+15560,a palmitoleoyl-[acp],a (<i>Z</i>)-hexadec-11-enoyl-[acp]|a (<i>Z</i>)-hexadec-11-enoyl-[acyl-carrier-protein]
+15567,a <i>trans</i>-octadec-2-enoyl-[acp],"<i>trans</i>-2,3-stearoyl-[acp]"
+15575,a <i>trans</i> oct-2-enoyl-[acp],a <i>trans</i>-oct-2-enoyl-[acp]|a <i>trans</i>-oct-2-enoyl-[acyl-carrier protein]|(2E)-octenoyl-[acp]
+15578,a crotonyl-[acp],a but-2-enoyl-[acp]
+15579,D-phenylalanyl-L-prolyl-L-valyl-L-ornithyl-L-leucyl-[NRPS-pcp],5-amino-2-(2-{[1-(2-amino-3-phenylpropanoyl)pyrrolidin-2-yl]formamido}-3-methylbutanamido)-N-(5-methyl-2-oxohexan-3-yl)pentanamide-[acp]
+15580,"a (3'-hydroxy-2'-(3''-oxobutanoyl)phenyl)-3,5-dioxohexanethioate-[PKS-acp]","an S-ACP 6-(3'-hydroxy-2'-(3''-oxobutanoyl)phenyl)-3,5-dioxohexanethioate|intermediate 3"
+15581,"a (1',5'-dihydroxy-3'-oxo-2'-(3''-oxobutanoyl)cyclohexyl)-3,5-dioxohexanethioate-[PKS-acp]","a S-ACP 6-(1',5'-dihydroxy-3'-oxo-2'-(3''-oxobutanoyl)cyclohexyl)-3,5-dioxohexanethioate|intermediate 2"
+15582,"a 3-amino-5,7-dihydroxy-6-methyl-8-[(2E,13E,15E)-5,7,9,11-tetrahydroxy-2,4,6,8,10,12,16-heptamethyl-17-oxooctadeca-2,13,15-trienoyl]-1,4,5,6-tetrahydronaphthalene-1,4-dione-[PKS-acp]",a rifamycin undecaketide-[PKS-acp] intermediate
+15583,"a 3-amino-8-[(2E)-2,4-dimethyl-5-oxohex-2-enoyl]-5,7-dihydroxy-6-methyl-1,4,5,6-tetrahydronaphthalene-1,4-dione -[PKS-acp]",a rifamycin cyclized pentaketide-[PKS-acp] intermediate
+15584,"a 8-(3-amino-5-hydroxyphenyl)-8-hydroxy-3,7-dimethyloctane-2,4,6-trione -[PKS-acp]",a rifamycin tetraketide-[PKS-acp] intermediate
+15585,"a 3,5,7,9,11,13,15-hepta-oxo-hexadecanoyl-[PKS-acp]",octaketide
+15586,"a (1'-hydroxy-3',5'-dioxo-2'-(3''-oxobutanoyl)cyclohexyl)-3,5-dioxohexanethioate-[PKS-acp]","intermediate1|a S-ACP 6-(1'-hydroxy-3',5'-dioxo-2'-(3''-oxobutanoyl)cyclohexyl)-3,5-dioxohexanethioate"
+15587,a 1-(3-amino-5-hydroxyphenyl)ethan-1-one -[PKS-acp],a 3-amino-5-hydroxybenzoyl-[PKS-acp] starter unit
+15605,a [citrate-lyase],deacetyl-[citrate-oxaloacetate-lyase((pro-3S)-CH2COO-acetate)]|deacetyl-(citrate-oxaloacetate-lyase)|deacetyl-citrate-lyase|[citrate (pro-3S)-lyase](thiol form)
+15610,a phosphorylated microsomal-membrane-protein,phospho-[microsomal-membrane-protein]
+15639,Small Mechanosensitive Ion Channel,MscS
+15681,a branched-chain 2-keto acid dehydrogenase,[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)]
+15682,a pyruvate dehydrogenase,[pyruvate dehydrogenase (acetyl-transferring)]
+15686,a corrinoid Fe-S protein,CoFeSP
+15714,a factor XI,plasma thromboplastin antecedent
+15726,an <i>apo</i>-[methylmalonyl-CoA:pyruvate carboxytransferase],apo-[methylmalonyl-CoA-carboxyltransferase]
+15729,a <i>holo</i>-[methylmalonyl-CoA:pyruvate carboxytransferase],holo-[methylmalonyl-CoA:pyruvate carboxytransferase]|biotin-[methylmalonyl-CoA:pyruvate carboxytransferase]|holo-[methylmalonyl-CoA-carboxyltransferase]|biotin-[methylmalonyl-CoA-carboxyltransferase]
+15733,a dinitrogen reductase,a dinitrogenase|a nitrogen reductase
+15735,a reduced nitrogenase,"a dinitrogenase, reduced|a nitrogenase, reduced|a dinitrogen reductase, reduced"
+15737,an inactive lactyl-CoA dehydratase,"lactyl-CoA dehydratase, inactive"
+15738,a phosphorylated branched-chain 2-keto acid dehydrogenase,[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)] phosphate
+15739,a phosphorylated pyruvate dehydrogenase,[pyruvate dehydrogenase (acetyl-transferring)] phosphate
+15746,a ferrihemoglobin,a methemoglobin
+15752,a phosphorylated receptor protein,[receptor-protein] phosphate
+15753,a sulfurated [sulfur carrier],a sulfurated sulfur acceptor
+15755,an unsulfurated [sulfur carrier],an unsulfurated sulfur donor
